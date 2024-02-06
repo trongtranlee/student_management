@@ -27,7 +27,7 @@ app.layout = html.Div(
                 dcc.Input(
                     id="STUDENT_ID",
                     type="text",
-                    value='',
+                    value='20000000',
                     placeholder='Nhập mã sinh viên...',
                     debounce=True
                 )
@@ -132,11 +132,11 @@ def update_radar_chart(STUDENT_ID):
     if len(STUDENT_ID) > 0:
         f_df = f_df[f_df.student_id == STUDENT_ID]
         categories = ['Math Score', 'Chem Score', 'Phy Score', 'Eng Score', 'Lit Score']
-        values = [f_df.iloc[0]['student_mathScore'].astype(int),
-                  f_df.iloc[0]['student_chemScore'].astype(int),
-                  f_df.iloc[0]['student_phyScore'].astype(int),
-                  f_df.iloc[0]['student_engScore'].astype(int),
-                  f_df.iloc[0]['student_litScore'].astype(int)]
+        values = [f_df.iloc[0]['student_mathScore'],
+                  f_df.iloc[0]['student_chemScore'],
+                  f_df.iloc[0]['student_phyScore'],
+                  f_df.iloc[0]['student_engScore'],
+                  f_df.iloc[0]['student_litScore']]
         return {
             'data': [
                 go.Scatterpolar(
@@ -150,10 +150,10 @@ def update_radar_chart(STUDENT_ID):
                 polar=dict(
                     radialaxis=dict(
                         visible=True,
-                        range=[0, 5]  # Phạm vi của trục radial
+                        range=[0, 10]  # Phạm vi của trục radial
                     )
                 ),
-                title=f'Biểu đồ Radar của {df.iloc[0]["student_name"]}'
+                title=f'Biểu đồ điểm môn học của {df.iloc[0]["student_name"]}'
             )
         }
 
