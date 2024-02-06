@@ -1,0 +1,1001 @@
+student_name,student_id,student_phoneNumber,student_email,student_age,student_city,student_gender,student_mathScore,student_chemScore,student_phyScore,student_engScore,student_litScore
+Willie Hughes,20000009,0383337913,alexandrakane@hus.edu.vn,23,South Chase,Nữ,6,6,5,6,10
+Mercedes Duncan,20000822,0326406054,cbanks@hus.edu.vn,24,West Bryanbury,Nam,3,0,9,10,7
+Dr. James Lee,20000265,0399108671,parkscourtney@hus.edu.vn,23,North Deborahside,Nữ,2,5,4,3,7
+Joshua Lane,20000108,0351340196,lstewart@hus.edu.vn,25,Nguyenview,Khác,2,9,9,9,6
+Wendy Coleman,20000737,0475477894,tsantos@hus.edu.vn,17,North Timothy,Nữ,6,7,4,5,10
+Vicki Johnson,20000870,0011210593,hgardner@hus.edu.vn,18,Rogersview,Khác,8,2,0,7,1
+Ashley Bishop,20000694,0785724563,kaylahoward@hus.edu.vn,21,West Kyleview,Khác,7,9,1,5,4
+Angela Strickland,20000925,0638234478,cynthiahenry@hus.edu.vn,20,South Nicole,Nam,3,10,6,8,10
+Jacob Mccarty,20000528,0330007519,rachaelcabrera@hus.edu.vn,24,North Perryborough,Nam,10,6,9,2,0
+Judy Atkinson,20000535,0093633855,adam24@hus.edu.vn,21,Romanton,Nữ,2,2,6,9,6
+Rachel Phillips,20000197,0547877113,mitchellcarey@hus.edu.vn,18,Margaretville,Nam,2,1,2,4,4
+Cody West,20000426,0990708939,lynn57@hus.edu.vn,20,Lake Margaretmouth,Nam,5,10,9,4,9
+Taylor Rubio,20000287,0352777904,taylorbrown@hus.edu.vn,22,Lake Stephanie,Nam,1,5,3,0,8
+Susan Murray,20000567,0430713810,brendablevins@hus.edu.vn,17,South Stephanieton,Nữ,9,10,1,2,8
+Robin Shaw,20000232,0096523658,krhodes@hus.edu.vn,21,Jessemouth,Nữ,7,2,5,6,4
+Robin Park,20000008,0284203356,jennifer82@hus.edu.vn,19,North Valerieville,Nữ,0,1,10,6,8
+Michael Jackson,20000320,0333616068,griffinchristine@hus.edu.vn,19,Hartmanton,Nữ,10,10,2,8,10
+Laura Fitzpatrick,20000668,0327600062,ureed@hus.edu.vn,20,New Jasonland,Nam,4,7,6,6,3
+Jessica Perez,20000379,0967416036,nicholashart@hus.edu.vn,25,South Marissaton,Nữ,10,8,7,6,3
+Terri Hansen,20000546,0273450392,welchangela@hus.edu.vn,18,East Kimberlyview,Nam,8,7,0,10,4
+Wendy Cowan,20000309,0677279624,chapmandustin@hus.edu.vn,21,Sawyerbury,Khác,10,5,2,7,3
+Karla Henderson,20000441,0913971781,baileyjessica@hus.edu.vn,17,Biancatown,Nữ,3,9,4,7,3
+Patrick Graves,20000938,0028244236,ncollins@hus.edu.vn,18,South Valerieburgh,Khác,0,9,1,4,2
+Justin Bishop,20000391,0531322135,qlewis@hus.edu.vn,25,Maldonadoberg,Khác,6,10,7,9,2
+Lori Jackson,20000241,0992102287,millerchristopher@hus.edu.vn,23,Sandrastad,Nam,9,6,5,4,10
+Robert Swanson,20000865,0376693563,gregferguson@hus.edu.vn,23,Sarahfort,Nam,6,0,3,4,6
+Cynthia Guzman,20000750,0429993715,sroman@hus.edu.vn,25,Lake John,Nữ,7,3,7,8,5
+Robert Jimenez,20000230,0395104943,perezfrank@hus.edu.vn,25,Carlaland,Khác,8,5,5,6,9
+Matthew Castillo,20000072,0225036381,frenchmark@hus.edu.vn,22,West Elizabeth,Nữ,5,8,5,7,7
+Marissa Johnson,20000432,0820218016,cgonzalez@hus.edu.vn,23,South Christophertown,Khác,2,0,5,5,0
+Jamie Parker,20000551,0952719899,shawn91@hus.edu.vn,21,Munozport,Khác,10,4,4,0,10
+Natalie Cole,20000293,0626780699,joanne01@hus.edu.vn,25,East Sarahport,Khác,5,0,1,3,8
+Kelly Smith,20000301,0917701727,heather09@hus.edu.vn,24,Harmonfort,Nam,5,10,4,2,10
+Amy Christian,20000219,0935231224,kara78@hus.edu.vn,23,West Patrick,Nam,5,7,7,0,4
+Robert Mason,20000860,0849709993,jbeasley@hus.edu.vn,19,East Erinchester,Nam,4,2,0,10,3
+David Gross,20000220,0392050041,wesleyfletcher@hus.edu.vn,17,Port Wendy,Nữ,5,10,0,0,4
+Jennifer Kennedy,20000385,0707550626,derrick56@hus.edu.vn,25,North Zachary,Nam,4,4,3,1,8
+Phillip Ferguson,20000493,0365857890,todd20@hus.edu.vn,23,Whitechester,Khác,10,6,0,6,1
+Jennifer Scott,20000384,0190493281,grosselizabeth@hus.edu.vn,20,Smithchester,Nữ,0,1,10,1,9
+George James,20000657,0759949002,ashley52@hus.edu.vn,22,South Sierra,Khác,7,7,10,10,2
+Timothy Chavez,20000882,0062276743,rwebb@hus.edu.vn,20,Alicebury,Nữ,7,2,7,2,7
+Mrs. Amber Garza,20000941,0858219326,bonnie67@hus.edu.vn,23,Port Richardberg,Nữ,9,5,3,10,5
+Andrew Velez,20000932,0365997641,deannalopez@hus.edu.vn,20,New Hunterberg,Nữ,3,2,9,8,4
+Adriana Johnson,20000155,0062959998,kellydavid@hus.edu.vn,18,Jamesville,Nữ,8,6,8,7,5
+Alison Richmond,20000590,0324492885,morrowcynthia@hus.edu.vn,24,Alexandermouth,Khác,0,8,3,9,5
+Jordan Boyd,20000784,0735744099,princejoyce@hus.edu.vn,19,North Steve,Nam,2,5,3,8,2
+Nicole Rojas,20000759,0777207772,stevenarroyo@hus.edu.vn,25,Mooremouth,Khác,2,9,3,6,10
+Paul Jacobs,20000334,0109069614,laura89@hus.edu.vn,21,Lake Matthew,Nữ,9,1,0,2,10
+Kellie Vaughan,20000667,0442211069,andrew03@hus.edu.vn,19,North Lauren,Nữ,2,0,0,8,2
+Christopher Pruitt,20000936,0076517962,jacob51@hus.edu.vn,25,Port Amanda,Nữ,10,10,1,0,8
+Jonathan Schmidt,20000162,0102084585,colincole@hus.edu.vn,17,Lake Donaldfurt,Nữ,0,9,4,9,3
+Autumn Robinson,20000113,0077634762,lewisdonna@hus.edu.vn,20,Steeleborough,Nữ,4,1,5,10,6
+Mary Miller,20000302,0577192137,cory55@hus.edu.vn,17,West Tanyaborough,Nam,3,2,0,0,7
+Kevin Johnson,20000691,0952907746,ivanstewart@hus.edu.vn,21,North Pamelaburgh,Nữ,0,2,3,5,7
+Robert Levy,20000748,0762256269,brandy83@hus.edu.vn,25,Heathbury,Nam,7,8,8,0,5
+Sarah Gomez,20000295,0042521864,david09@hus.edu.vn,21,Anthonyhaven,Khác,6,3,2,1,1
+Lori Case,20000159,0306050512,allisonmendez@hus.edu.vn,23,Whitneyshire,Khác,4,10,7,8,8
+Steven Bailey,20000871,0632472164,andradewilliam@hus.edu.vn,23,New Rachelside,Nam,3,5,0,6,2
+Eric Anderson,20000690,0295911877,tjackson@hus.edu.vn,23,Roweberg,Nữ,6,0,6,2,8
+Bobby Rivera,20000302,0144475183,garciamelvin@hus.edu.vn,22,Richardchester,Khác,8,7,1,0,6
+Wendy Garrett,20000514,0080816284,goldenlee@hus.edu.vn,25,Howellport,Khác,9,7,3,9,10
+Mrs. Theresa Stout,20000877,0539796485,reevestodd@hus.edu.vn,22,Josephhaven,Nữ,7,6,5,10,0
+Brenda Shepard,20000852,0392132632,donaldsondorothy@hus.edu.vn,17,West Rachel,Khác,7,9,7,2,0
+Courtney Whitehead,20000278,0899843124,matthew80@hus.edu.vn,22,East Albert,Nữ,2,10,3,7,3
+Shannon Daniels,20000544,0989061376,julie64@hus.edu.vn,20,Lesliemouth,Nữ,2,3,1,10,5
+Jillian Lewis,20000671,0742168974,tricia87@hus.edu.vn,18,Danielburgh,Nam,8,1,8,0,10
+Mario Rodriguez,20000406,0976490277,johnsoncandice@hus.edu.vn,19,North Richard,Nữ,8,1,6,4,7
+Tracy Mills,20000182,0631818795,sean21@hus.edu.vn,25,North Jason,Khác,3,4,2,4,8
+Ruben Huynh,20000709,0161339834,pbennett@hus.edu.vn,25,New Michelleberg,Nữ,3,9,9,0,10
+Kenneth Miller,20000013,0020021963,deleonamy@hus.edu.vn,18,Brittanyfort,Khác,0,6,5,9,8
+Amber Pollard,20000456,0525917070,rhondaellis@hus.edu.vn,25,Dianamouth,Nam,7,6,9,8,8
+Heather Turner,20000931,0899798055,williamssandra@hus.edu.vn,20,East Josephtown,Nam,9,2,1,6,5
+Maria Moore,20000965,0905214319,acrawford@hus.edu.vn,22,South Kyleport,Nữ,3,0,2,1,4
+Nicholas Wilson,20000830,0202627471,tcarney@hus.edu.vn,24,Elijahton,Nam,6,1,10,7,8
+Adam Thomas,20000013,0362293080,justinfields@hus.edu.vn,17,Williambury,Nam,4,10,10,4,10
+Brittany Smith,20000688,0173972518,fritzwilliam@hus.edu.vn,23,Lake James,Khác,8,3,0,6,1
+Jenny Smith,20000500,0319173964,mpeterson@hus.edu.vn,22,Harrisberg,Khác,3,10,3,5,6
+Amy Friedman,20000919,0405841309,cynthiamorgan@hus.edu.vn,20,Shirleyside,Nữ,1,10,5,1,5
+Lawrence Phillips,20000984,0871884820,sandrade@hus.edu.vn,20,North Danielborough,Nam,8,3,3,6,8
+Richard Johnson,20000260,0926321493,robert37@hus.edu.vn,25,Lake Joshuamouth,Nữ,3,4,9,8,7
+Lisa Wright,20000642,0131864227,hernandezmichael@hus.edu.vn,19,North Davidside,Nữ,0,6,4,10,5
+Megan Brooks,20000102,0071268280,beltrantheresa@hus.edu.vn,25,Jonesland,Khác,8,8,2,2,8
+Amber Mendez,20000941,0814986953,hoffmanshaun@hus.edu.vn,22,Hofort,Nam,0,9,4,6,5
+Sarah Peters,20000668,0031016037,kenneth09@hus.edu.vn,19,Chaneytown,Nam,9,10,7,3,3
+Ashley Austin,20000129,0907997767,bcarpenter@hus.edu.vn,23,Lake Loriside,Khác,3,0,5,0,4
+Ricardo Williams,20000069,0941331050,gwelch@hus.edu.vn,18,West Chasechester,Nam,6,8,8,6,4
+Michelle Park,20000620,0380234553,silvaalex@hus.edu.vn,19,Stuartside,Nữ,9,0,3,1,2
+Kimberly Sanders,20000483,0097257400,morgansarah@hus.edu.vn,18,East Kelly,Nữ,10,6,0,5,8
+Mark Keith,20000078,0235040397,nataliemcdonald@hus.edu.vn,18,North Robert,Nữ,4,0,7,1,10
+Caitlyn Patrick,20000123,0202517062,austinjoshua@hus.edu.vn,23,Benitezstad,Nam,1,7,9,7,6
+Megan White,20000995,0409660233,christopherhall@hus.edu.vn,20,Andreamouth,Nam,8,6,10,6,0
+Victoria Joseph,20000474,0817553421,brandall@hus.edu.vn,23,Brownhaven,Khác,7,7,5,9,7
+Janet Graves,20000858,0007970367,nicole44@hus.edu.vn,24,Duranburgh,Nam,10,2,2,10,2
+Michael Collier,20000495,0198422191,uhill@hus.edu.vn,25,Allenborough,Nam,7,6,8,3,0
+Leah Decker,20000576,0919189955,vaughndaniel@hus.edu.vn,18,Jenniferport,Nam,7,3,3,10,1
+Jason Scott,20000505,0715684019,perezcheryl@hus.edu.vn,25,South Christopher,Nữ,10,10,0,7,8
+John Estes,20000563,0596699856,youngbenjamin@hus.edu.vn,21,Robinsonmouth,Nam,0,4,9,1,6
+Gary Griffin,20000180,0193640018,gordonashley@hus.edu.vn,23,Sarahburgh,Nam,7,5,8,9,5
+Shawn Stewart,20000932,0329734440,wgoodwin@hus.edu.vn,20,East Michael,Nữ,10,2,10,10,7
+William Christian,20000865,0741196182,vmaldonado@hus.edu.vn,18,Grahamside,Nam,8,5,4,9,2
+Stephanie Brown,20000352,0248906079,benjamin79@hus.edu.vn,18,Jerryview,Khác,2,8,9,5,6
+Taylor Rivera,20000230,0172032122,scottnguyen@hus.edu.vn,17,South Robertburgh,Nữ,10,2,6,2,3
+Kevin Hampton,20000127,0966924547,zbarry@hus.edu.vn,25,West Brittney,Khác,2,6,6,0,7
+Brandy Moss,20000917,0350374204,sgray@hus.edu.vn,18,South Nathanchester,Khác,7,8,1,2,3
+Stephanie Herring,20000696,0906254651,alexandermartin@hus.edu.vn,21,New Kristaton,Nam,3,2,7,0,8
+Nicole Michael,20000689,0892922193,jerry72@hus.edu.vn,18,East Calebfurt,Khác,8,2,1,3,4
+Matthew Wells,20000694,0081403453,patriciamiller@hus.edu.vn,22,Port Anne,Nam,6,8,3,3,3
+Natasha Blair,20000539,0687112723,tmontgomery@hus.edu.vn,18,Taylorfort,Nữ,0,7,3,9,0
+Richard White,20000233,0009868605,tmiller@hus.edu.vn,20,North Jenna,Khác,0,9,3,9,3
+Jacob Cochran,20000020,0394235341,nicolejohnson@hus.edu.vn,23,South Donnahaven,Nữ,4,3,9,4,9
+Brandon Thomas,20000093,0851288144,thomasjeffrey@hus.edu.vn,19,Port Davidfort,Khác,10,0,9,10,10
+Mary Shea,20000373,0465718432,jacksonyvonne@hus.edu.vn,25,North Erica,Khác,9,4,0,5,1
+Edwin Nguyen,20000455,0795125213,debrawilson@hus.edu.vn,20,Morrowchester,Khác,5,0,10,6,2
+James Wiley,20000522,0413591690,amyarnold@hus.edu.vn,22,Robertsonfort,Khác,2,1,5,2,10
+Timothy Briggs,20000240,0474635754,obaker@hus.edu.vn,17,Port Matthewview,Nam,4,2,4,1,0
+John Porter,20000056,0464018338,jenniferrobinson@hus.edu.vn,21,Lake John,Khác,3,7,0,5,6
+Emily Garcia,20000412,0221764522,kristinawilliams@hus.edu.vn,25,Port Danaport,Khác,0,1,8,3,7
+Jose Wilson,20000869,0882022839,michellegoodwin@hus.edu.vn,21,South Jessicaton,Nam,0,4,5,4,8
+Daniel Hubbard,20000165,0215337955,tony22@hus.edu.vn,25,Katieland,Nữ,8,3,7,4,0
+Daniel Brown,20000512,0920724941,jacksonamy@hus.edu.vn,19,South Laura,Nữ,0,5,9,8,2
+John Barber,20000489,0895530364,gabrielle48@hus.edu.vn,25,Cherylburgh,Nam,6,5,7,2,5
+Edwin Nelson,20000784,0225164133,hesstammy@hus.edu.vn,20,West Stephanie,Nữ,7,9,4,4,6
+Jason Kerr,20000955,0126040303,wsimon@hus.edu.vn,17,Mollyton,Khác,6,6,3,1,9
+Michael Gonzalez,20000965,0244209681,melissa05@hus.edu.vn,21,West Lorimouth,Nam,7,6,9,3,0
+Russell Brooks,20000424,0726448478,kevin27@hus.edu.vn,25,Port Michaelton,Nam,4,9,4,10,4
+Justin Chung,20000075,0451571486,summerbrady@hus.edu.vn,25,South Courtneyport,Nam,8,6,3,5,4
+Peter Hill,20000719,0607746344,chelseysanders@hus.edu.vn,21,New Henrymouth,Khác,9,10,5,6,4
+William West,20000178,0136973516,kristen71@hus.edu.vn,23,Port Andrewhaven,Nữ,1,8,9,7,0
+Charles Lewis,20000630,0331343904,johnsongrace@hus.edu.vn,25,West James,Nam,5,3,9,2,2
+Christina Johnson,20000738,0355249223,snyderjeffery@hus.edu.vn,21,Patrickfort,Nữ,5,4,8,3,8
+Phillip Stephens,20000615,0909690777,katherineschaefer@hus.edu.vn,20,Cherryland,Nữ,9,3,9,6,1
+Christopher Powell,20000150,0800810096,thomascarson@hus.edu.vn,18,East Matthew,Khác,2,3,8,4,9
+Fernando Wilson,20000858,0694819175,stephanie67@hus.edu.vn,21,Port Cory,Khác,10,0,3,10,4
+Matthew Wilson,20000204,0819968048,kathleen90@hus.edu.vn,19,Doughertyburgh,Khác,5,8,6,9,8
+Natalie Farrell,20000886,0316387831,penningtonjohn@hus.edu.vn,20,Smithfort,Nam,0,0,6,4,3
+John Barrett,20000751,0249453240,owright@hus.edu.vn,23,Davisland,Nam,8,4,4,6,2
+Melinda Cooper,20000103,0727721926,staffordrobin@hus.edu.vn,22,Longtown,Nam,2,5,3,2,4
+Danielle Robinson,20000854,0529675338,thompsonchristopher@hus.edu.vn,22,Port Kristastad,Nữ,1,4,6,7,5
+Angela Bryan,20000225,0919646604,millscindy@hus.edu.vn,21,Hudsonhaven,Nam,0,9,1,6,6
+Rhonda Medina,20000567,0628103894,ifranklin@hus.edu.vn,20,Underwoodland,Nam,1,5,1,3,5
+Christian Velasquez MD,20000274,0318607730,wilsonangelica@hus.edu.vn,22,Hollyfort,Nam,8,1,1,4,7
+Wanda Dennis,20000056,0434465383,karenmiller@hus.edu.vn,17,Davidtown,Nữ,5,10,6,8,1
+Ebony Brewer,20000920,0405603138,hjohnson@hus.edu.vn,19,New Jenniferfort,Khác,0,4,10,5,1
+Melissa Butler,20000049,0239960262,joshuatyler@hus.edu.vn,19,Millertown,Nam,4,9,2,1,3
+Cynthia Chase,20000557,0581586965,ycrawford@hus.edu.vn,18,Port Amytown,Nữ,6,9,1,10,8
+Angela Garrett,20000062,0622921828,lisaellis@hus.edu.vn,17,Romanborough,Khác,3,1,4,2,1
+Ariana Roberts,20000033,0420278744,fdeleon@hus.edu.vn,25,Lake Benjaminside,Nữ,7,5,5,7,4
+Charles Armstrong,20000449,0374301597,monica93@hus.edu.vn,25,North Davidstad,Nữ,2,3,10,0,8
+Sara Esparza,20000945,0065376110,sconway@hus.edu.vn,24,North Janetfurt,Nữ,6,9,4,5,9
+Jose Norris,20000056,0474735770,ashleyhawkins@hus.edu.vn,23,Shannonmouth,Nữ,5,4,4,7,10
+Teresa Martinez,20000990,0152200037,jennifer62@hus.edu.vn,17,Johnsonborough,Nữ,0,1,9,1,9
+Susan Brown,20000292,0025246181,epearson@hus.edu.vn,18,North Carolport,Nam,2,3,2,4,5
+David Green,20000399,0366810801,rwilson@hus.edu.vn,22,Lake Corey,Nam,6,0,0,7,7
+Troy Price,20000223,0540865688,masseysierra@hus.edu.vn,20,Port Jennifer,Nữ,3,5,8,8,6
+Todd Williams,20000888,0670647294,rosscolon@hus.edu.vn,17,New Zachary,Nam,5,0,5,2,4
+Lisa Howard,20000870,0107214164,albertthomas@hus.edu.vn,20,Connerborough,Nam,10,1,9,1,7
+Tyler Holland,20000861,0255807102,hsanchez@hus.edu.vn,20,Sharpstad,Nữ,5,7,5,6,4
+Troy Conway,20000295,0853360894,rachel57@hus.edu.vn,21,Sheilahaven,Nam,2,10,9,3,3
+Kathleen Evans,20000465,0453997881,pamela14@hus.edu.vn,19,New Joyceton,Nữ,8,8,0,3,7
+Dylan Baker,20000196,0174313748,vgibson@hus.edu.vn,24,North Heathermouth,Khác,9,4,8,2,8
+Ryan Gallegos,20000133,0521875704,kentsherry@hus.edu.vn,23,New Jorge,Khác,10,8,9,9,1
+Mr. Paul Lewis MD,20000803,0384717690,hoffmanamy@hus.edu.vn,23,Port Kathleen,Khác,1,3,2,7,3
+Becky Ortega,20000533,0946508033,qsmith@hus.edu.vn,23,Michaelstad,Nam,0,7,9,8,8
+Rodney Berry,20000095,0462891260,karina37@hus.edu.vn,21,Hannahstad,Nữ,4,8,9,4,2
+Joshua Harris,20000147,0920803137,david51@hus.edu.vn,23,Rachelchester,Nữ,5,0,4,6,4
+Erika Carpenter,20000827,0873709513,cuevasmegan@hus.edu.vn,18,Dianaberg,Nữ,3,3,8,4,4
+Shelby Campbell,20000515,0978122754,wjefferson@hus.edu.vn,23,East Brian,Khác,7,2,4,3,6
+Mr. John West PhD,20000110,0657879199,oburnett@hus.edu.vn,20,Romeroton,Nữ,6,4,4,7,2
+George Hunt,20000808,0452190308,carterjessica@hus.edu.vn,22,New Cynthiafurt,Nữ,0,6,3,1,0
+Laura Miller,20000107,0437635799,brian59@hus.edu.vn,21,Fisherview,Nữ,0,6,4,4,2
+Jeremy Garcia,20000541,0943322936,rachelturner@hus.edu.vn,21,Jeffreyberg,Nam,3,7,8,9,2
+Jeffrey Santos,20000341,0979850335,zwright@hus.edu.vn,22,Gomezberg,Nam,6,10,6,8,9
+Brooke Cook,20000395,0266855667,kathleen61@hus.edu.vn,24,Munozview,Nữ,10,10,0,9,8
+Gordon Snyder,20000283,0874876140,tommy11@hus.edu.vn,22,Robinsonhaven,Nam,6,7,9,6,2
+Sara Morgan,20000495,0306298220,candice99@hus.edu.vn,20,West Jacquelinebury,Nam,1,3,10,1,3
+Terry Wood,20000934,0685408565,vyoder@hus.edu.vn,23,South Virginia,Nam,8,3,6,1,9
+James Anderson,20000755,0933360062,kylie95@hus.edu.vn,23,Kaitlynmouth,Nam,1,6,3,7,7
+Melissa Walters,20000028,0049502617,raymondmaria@hus.edu.vn,19,East Markchester,Nữ,4,9,0,3,10
+Kevin Osborne,20000766,0485341008,chase89@hus.edu.vn,22,Peterchester,Nam,10,0,4,4,10
+John Hamilton,20000712,0518854657,bsanchez@hus.edu.vn,25,Barnesside,Khác,3,8,1,2,4
+Bryan Bailey PhD,20000329,0757734750,molinarichard@hus.edu.vn,21,Hillfort,Nữ,5,10,10,1,6
+Mindy Reeves,20000027,0496437865,nicholas77@hus.edu.vn,23,Lucasfurt,Nam,4,1,7,5,2
+Amy Aguirre,20000542,0395706589,brianna60@hus.edu.vn,24,Port Deanport,Khác,8,2,1,6,9
+Jared Brock,20000201,0541835821,terri07@hus.edu.vn,21,Christianstad,Nam,1,10,3,0,6
+Jennifer Jefferson,20000621,0362863670,reginachase@hus.edu.vn,20,West Danielburgh,Nam,0,3,2,4,9
+Brian Taylor,20000210,0594682712,lori77@hus.edu.vn,20,Davidmouth,Nam,0,6,6,3,4
+Mrs. Kathleen Le,20000075,0205176218,kendralarson@hus.edu.vn,17,North Reneefurt,Khác,5,10,2,4,5
+Crystal Powers,20000135,0528819033,cooperlaura@hus.edu.vn,19,Karinaside,Khác,10,0,1,0,1
+Anthony Oliver,20000104,0774622147,sschmitt@hus.edu.vn,25,South Cory,Nữ,9,5,0,4,3
+Michael Edwards,20000680,0752519863,scottmedina@hus.edu.vn,24,East Jennifer,Khác,4,8,2,7,7
+Douglas Vang,20000757,0690884499,katherine14@hus.edu.vn,18,East Jeff,Nam,10,1,4,9,1
+Jason Coleman,20000852,0165002233,andrewmiranda@hus.edu.vn,24,Andersonfurt,Nữ,7,1,0,7,8
+Elizabeth Williams,20000228,0879467209,jessica67@hus.edu.vn,25,Port Kathleenview,Khác,6,8,8,6,1
+Elizabeth Drake,20000775,0150715027,tcaldwell@hus.edu.vn,19,Cherryside,Nam,10,4,2,8,3
+Elizabeth Smith,20000094,0001834120,nancybutler@hus.edu.vn,24,Joshuaside,Nam,2,2,8,2,7
+Dennis Thompson,20000112,0086879365,christopherpalmer@hus.edu.vn,22,Shelbyville,Nam,5,3,10,3,0
+Karina Smith,20000722,0547426093,joshuaclark@hus.edu.vn,20,West Kimberlyton,Nữ,4,0,6,7,7
+Stacey West,20000994,0894944135,lesliefoster@hus.edu.vn,25,Greeneshire,Nữ,6,7,4,5,8
+Andrew Wright,20000639,0352057085,clarkjennifer@hus.edu.vn,20,Michaeltown,Nam,0,7,5,4,9
+Theodore Burns,20000859,0721534821,julianhouston@hus.edu.vn,20,East Krista,Nữ,2,5,2,4,8
+Sean Jones,20000910,0937836017,caitlinwatts@hus.edu.vn,20,Gutierrezstad,Nam,4,10,7,2,3
+Miranda Martin,20000432,0462644644,ujennings@hus.edu.vn,23,Chelseashire,Nữ,5,0,8,4,6
+Christopher Archer,20000656,0472543205,hartmanphillip@hus.edu.vn,19,New Brittanyhaven,Khác,9,3,6,9,10
+Joshua Cooper,20000274,0784226951,qpace@hus.edu.vn,21,Gutierrezside,Nam,0,10,10,3,2
+Jessica Carter,20000884,0218219466,hunterbenjamin@hus.edu.vn,24,Shaneberg,Nữ,2,6,9,0,5
+Marc Robertson,20000792,0437784326,dakotahartman@hus.edu.vn,21,Lake Jamesside,Nam,2,1,1,4,2
+Robert Christian,20000457,0526343377,kyle66@hus.edu.vn,20,Lake Ericborough,Nữ,10,7,2,2,6
+Edgar Scott,20000604,0801221680,carlhoffman@hus.edu.vn,18,North Aaronbury,Nam,10,8,1,1,4
+Brian Barajas,20000183,0461118053,pkim@hus.edu.vn,22,North Jonathantown,Nam,10,10,3,4,9
+Amber Kelly,20000047,0056873596,dixondavid@hus.edu.vn,20,Port Christine,Nam,1,8,6,5,6
+Donna Arias,20000773,0849934466,kari13@hus.edu.vn,20,New Cynthia,Nam,8,1,8,1,9
+Pedro Patel,20000594,0839646039,julie44@hus.edu.vn,22,West Dawnborough,Nữ,5,8,10,1,6
+Lisa Bennett,20000754,0916877057,alexanderbrown@hus.edu.vn,19,Janicetown,Nữ,5,2,1,9,0
+Sergio Crawford,20000099,0288485766,rclark@hus.edu.vn,17,Brittanyville,Nam,7,1,5,10,2
+Juan Griffin,20000180,0638938776,kevin93@hus.edu.vn,19,East Jaclynbury,Khác,4,1,2,9,8
+Kayla Lynch,20000900,0277894746,mitchellhall@hus.edu.vn,20,West Mary,Khác,7,0,3,0,0
+Brandy Clark,20000094,0695355715,jdavis@hus.edu.vn,24,Brownborough,Nam,7,7,8,5,5
+Jerry Peterson,20000734,0314590372,ginasmith@hus.edu.vn,17,West Johnbury,Nam,8,4,3,10,2
+Heather Barron,20000031,0954255939,kaitlin76@hus.edu.vn,23,Mirandahaven,Khác,4,2,9,4,1
+Stephanie Nguyen,20000301,0376095699,nsmith@hus.edu.vn,24,Everettside,Nam,6,4,0,3,1
+Jill Greer,20000613,0955696230,christophershelton@hus.edu.vn,23,North Nicoleland,Khác,7,8,9,7,5
+Anna Rogers,20000550,0771769666,charris@hus.edu.vn,22,Jessicabury,Nữ,2,8,7,0,3
+Andrew Wright,20000209,0618731365,theresa55@hus.edu.vn,19,East Todd,Nam,9,9,2,4,1
+Nathan Simmons,20000216,0085818848,atkinselizabeth@hus.edu.vn,17,Holmesshire,Nam,7,3,6,5,7
+Lisa Cisneros,20000924,0723212560,dakota43@hus.edu.vn,20,Weeksshire,Nam,5,6,9,6,10
+Martin Logan,20000909,0263323469,shawn55@hus.edu.vn,21,New Kennethfort,Nam,0,8,8,8,3
+Emily Lopez,20000541,0042720744,rchandler@hus.edu.vn,20,Lake Ashley,Khác,10,10,2,4,6
+John Lewis,20000690,0945468985,kathleenpatel@hus.edu.vn,25,South Joelmouth,Nam,4,5,9,2,10
+Michelle Rogers,20000858,0716379833,lsherman@hus.edu.vn,17,Omarhaven,Nam,9,10,2,9,10
+Samuel Wells,20000071,0919920515,boltonjill@hus.edu.vn,17,Justinstad,Nữ,2,2,6,0,4
+Sean Kennedy,20000883,0727184069,amanda32@hus.edu.vn,22,South Jasonberg,Nam,10,10,5,7,6
+Perry Alexander,20000261,0835849368,kimberlyshannon@hus.edu.vn,22,Lorishire,Nữ,3,9,10,0,8
+Shannon Owen,20000707,0411637100,oliverclaire@hus.edu.vn,23,Port Dennis,Nam,0,5,4,3,7
+Kristin Cohen,20000015,0977596833,molly36@hus.edu.vn,24,Haroldborough,Nữ,4,5,0,7,10
+Michelle Green,20000319,0259702833,brenda78@hus.edu.vn,22,West Marilynfurt,Nữ,0,10,6,10,6
+Michelle Willis,20000985,0421053216,jessicakidd@hus.edu.vn,18,South Susantown,Nam,1,7,2,1,9
+Paul Munoz,20000672,0042412122,devin72@hus.edu.vn,17,Bartonbury,Nam,5,1,4,9,3
+Timothy Harper,20000597,0793920622,michellecarter@hus.edu.vn,24,Montesfurt,Khác,4,10,5,2,6
+Paula Strickland,20000505,0040526011,johnwilliams@hus.edu.vn,24,East Christina,Nữ,10,9,2,2,7
+Rachel Hudson,20000446,0348363048,orrjason@hus.edu.vn,21,Sarahmouth,Nữ,6,8,5,0,6
+Cheyenne Berry,20000081,0598556285,sheila98@hus.edu.vn,24,Ryanport,Nữ,8,4,6,1,2
+Matthew Campbell,20000992,0997734521,adkinsstephanie@hus.edu.vn,24,Huntview,Nam,3,4,5,8,1
+Paige Salas,20000662,0029202522,lauracook@hus.edu.vn,24,Lake Wayne,Nữ,2,0,0,9,6
+Deborah Hamilton,20000796,0511017496,patrick61@hus.edu.vn,24,West Kylefurt,Khác,9,3,6,10,9
+Janet Brown,20000450,0068584611,jonathan88@hus.edu.vn,25,North Lindaton,Nam,1,9,8,8,1
+Mitchell Baker,20000530,0460636240,qlloyd@hus.edu.vn,20,West Jenniferborough,Nam,0,3,1,6,0
+Mrs. Nancy Henry,20000316,0601328704,haydenbarbara@hus.edu.vn,22,East David,Nam,6,8,4,6,7
+Jessica Chavez,20000246,0191506151,louis71@hus.edu.vn,21,Blevinsberg,Khác,7,7,3,6,4
+Diane Hebert,20000594,0824570402,taylorramsey@hus.edu.vn,22,West William,Nam,7,10,9,7,6
+Jeffrey Cox,20000012,0776461254,cookejulie@hus.edu.vn,18,Tonymouth,Nữ,9,10,3,4,1
+Nicole Rodriguez,20000058,0155499115,brenda90@hus.edu.vn,21,Annaburgh,Khác,0,4,2,9,5
+Monica Leach,20000344,0180078137,jacksonlinda@hus.edu.vn,23,North Nicolehaven,Nữ,1,8,10,0,9
+Eric Novak,20000125,0159803180,spencer52@hus.edu.vn,17,Williamsview,Nữ,8,6,9,8,6
+Joanna White,20000038,0228592724,matthewboyd@hus.edu.vn,21,Lake Juanfurt,Nam,8,1,10,3,4
+Jacqueline Salazar,20000811,0867841257,robert70@hus.edu.vn,22,Port Jeffreyborough,Nam,6,10,6,1,7
+Heather Rowe,20000595,0045195866,eric36@hus.edu.vn,20,East Paulfurt,Nam,4,8,10,9,0
+Cynthia Lozano,20000911,0215302328,garciakatherine@hus.edu.vn,20,Middletonfort,Nữ,6,9,0,10,0
+Melissa Moore,20000986,0683186479,jack80@hus.edu.vn,25,Emilymouth,Nam,7,10,9,10,1
+Cynthia Green,20000405,0688344599,rcrane@hus.edu.vn,24,Brooksmouth,Nữ,10,7,10,6,7
+Angela Baker,20000166,0595623333,xcarrillo@hus.edu.vn,22,Port Melissa,Nam,0,1,2,0,10
+Ashley Perkins,20000899,0952135136,zwolfe@hus.edu.vn,19,Kellyport,Khác,8,0,0,5,7
+Duane Moreno III,20000447,0974470675,johnsonstacey@hus.edu.vn,21,South Josephberg,Khác,8,4,5,4,10
+Gina Bradley,20000348,0434288815,william17@hus.edu.vn,23,East Amyland,Nam,1,7,7,0,6
+Michelle Mcdonald,20000050,0613951598,dawn78@hus.edu.vn,23,Barrettland,Nữ,6,4,9,8,1
+David Howard,20000552,0019464346,sandrashepherd@hus.edu.vn,18,Brownburgh,Khác,3,5,3,7,2
+John Patterson,20000074,0459860611,bmoore@hus.edu.vn,22,North Javierton,Nữ,8,1,7,4,7
+Melissa Hines,20000356,0748717654,dorothycarson@hus.edu.vn,18,New Miguel,Nữ,8,0,5,2,9
+Blake Kelley,20000047,0026684003,fpittman@hus.edu.vn,17,Pattersonfurt,Nữ,8,0,10,8,5
+Chad Solomon,20000393,0962239005,tyler71@hus.edu.vn,17,South Patriciaside,Nữ,10,4,4,5,10
+Jamie Johnson,20000216,0747828834,evansrodney@hus.edu.vn,21,Williamtown,Nữ,8,5,10,7,7
+Dawn Johnson,20000800,0757567097,cathycooper@hus.edu.vn,18,West Michaelhaven,Nam,9,10,9,6,6
+Diana Beltran,20000694,0047257543,gillespiejohn@hus.edu.vn,19,New Jessica,Nữ,8,1,5,8,10
+Melissa Miller,20000506,0474279589,ronniefoster@hus.edu.vn,22,Kerrville,Nam,9,6,7,3,9
+Stephanie Wise,20000512,0611157009,iruiz@hus.edu.vn,17,Eatonshire,Nam,7,9,0,5,8
+Kimberly Contreras,20000732,0613228057,ndiaz@hus.edu.vn,20,Marilynchester,Nữ,1,5,0,1,5
+James Collins,20000670,0192703243,zrubio@hus.edu.vn,17,Philipborough,Khác,1,4,10,0,5
+Dr. Kenneth Cummings,20000692,0336804989,sandra18@hus.edu.vn,20,New Veronicaburgh,Nữ,7,0,9,1,5
+Alexandra Keller,20000766,0504947057,johnathan95@hus.edu.vn,24,Jonesburgh,Nữ,7,0,8,8,6
+Andrew Carter,20000036,0262568076,jacksongarrett@hus.edu.vn,25,South John,Nữ,4,3,4,2,8
+Lisa Sampson,20000923,0119599377,ryanavila@hus.edu.vn,18,Rachelland,Khác,7,7,10,4,7
+Jack Black,20000481,0537017872,ismith@hus.edu.vn,22,New Brandonshire,Khác,1,5,8,10,10
+Kevin Robertson,20000831,0506923650,nfreeman@hus.edu.vn,24,New Timothyview,Nam,10,9,1,1,0
+Michelle Smith,20000403,0188069100,ashleecarpenter@hus.edu.vn,25,Alexisland,Khác,8,5,2,7,0
+Kiara Griffith,20000765,0437116738,robertgarrison@hus.edu.vn,24,Traciborough,Khác,3,1,3,2,9
+Emily Whitehead,20000568,0034947351,ochavez@hus.edu.vn,24,Brianhaven,Khác,0,5,3,0,10
+Lauren Boone,20000816,0709320033,sriddle@hus.edu.vn,17,Lake Kelly,Khác,4,5,0,9,0
+Edgar Richardson,20000202,0378872923,kmarks@hus.edu.vn,24,Loveville,Khác,10,2,6,10,1
+John Ramirez,20000655,0565474214,rross@hus.edu.vn,22,East Benjaminbury,Khác,9,10,8,0,0
+Jamie Dixon,20000440,0747147346,jjackson@hus.edu.vn,25,Lawsonstad,Khác,8,2,1,1,0
+Jamie Boyle,20000720,0037829366,wilsonvincent@hus.edu.vn,24,East Joseph,Khác,4,10,2,7,0
+Terry West,20000504,0247349237,carolmercer@hus.edu.vn,22,South Williambury,Nữ,1,7,1,9,0
+Sarah Howard,20000696,0116476180,mathewsfrank@hus.edu.vn,18,West Patricia,Khác,10,8,10,9,1
+Heather Sanchez,20000463,0651710720,bestbryan@hus.edu.vn,24,Michaelborough,Nam,4,0,1,6,0
+Gregg Williams,20000176,0338586909,qjohnson@hus.edu.vn,25,Changport,Nam,3,9,2,1,6
+Tyler Hartman,20000865,0402063476,uwilliams@hus.edu.vn,17,Marquezberg,Khác,8,8,3,8,10
+Amy Fisher,20000181,0791426441,kellyfrancis@hus.edu.vn,17,Floresport,Khác,1,1,3,10,4
+Noah Shaffer,20000012,0277894302,ichan@hus.edu.vn,24,Langside,Khác,3,4,4,3,6
+Tiffany Adams,20000995,0135817053,cmartin@hus.edu.vn,20,South Judithborough,Nam,10,5,9,10,0
+Jodi Lucas,20000461,0532235387,mitchellscott@hus.edu.vn,19,Lake Dana,Khác,2,7,9,9,4
+Norma Burke,20000413,0733031475,charles63@hus.edu.vn,18,Darlenefort,Khác,0,4,2,9,6
+Brittney Harrison,20000303,0584857146,emora@hus.edu.vn,20,Michelleton,Nam,7,8,1,10,0
+Stephen Freeman,20000704,0340389416,smccormick@hus.edu.vn,21,Wiseton,Nữ,1,4,7,1,3
+Tracy Lindsey,20000249,0518039125,ldavis@hus.edu.vn,19,Tylerview,Nam,4,9,9,3,7
+William Snyder,20000595,0428734108,klinenancy@hus.edu.vn,25,Lake William,Nữ,1,7,4,5,2
+Timothy Perez,20000474,0919857538,xmedina@hus.edu.vn,25,Port Andrew,Nam,7,1,1,9,8
+Kari Shaw,20000553,0394852435,allenjohn@hus.edu.vn,17,South Pamelaland,Nữ,9,7,9,4,9
+Autumn Gregory,20000790,0745059401,brownjames@hus.edu.vn,25,Harmonland,Khác,2,2,8,10,3
+Mark Williams,20000329,0113482680,jwilliams@hus.edu.vn,22,Kaufmanton,Nữ,1,1,7,0,8
+Crystal Williams,20000445,0509199481,rgarcia@hus.edu.vn,23,Rhondabury,Nữ,3,10,3,1,2
+William Hurley,20000078,0994644060,bmccormick@hus.edu.vn,20,Davidfort,Nam,2,0,9,4,9
+Veronica Carey,20000907,0893470508,thomas44@hus.edu.vn,22,Hernandezberg,Nam,3,10,2,2,10
+Sheri Bradford,20000609,0232871340,kimdennis@hus.edu.vn,20,Jessechester,Nam,1,0,0,4,4
+Traci Abbott,20000467,0379565201,janice75@hus.edu.vn,23,West Kimberlyport,Nữ,10,7,6,7,6
+Crystal Ballard,20000677,0056321141,robert03@hus.edu.vn,21,Tylerfurt,Khác,6,5,5,5,5
+Brandon Ortiz,20000289,0174968676,robertvillarreal@hus.edu.vn,24,Port Joseph,Nam,7,5,8,1,5
+Rachel James,20000782,0014470957,matthew79@hus.edu.vn,25,Piercestad,Nam,6,1,7,3,0
+Matthew Hoffman,20000505,0914645873,jthomas@hus.edu.vn,17,South Lisa,Nữ,4,3,7,5,9
+Joshua Ward,20000358,0417776583,chelsea89@hus.edu.vn,24,West Michelleport,Nam,8,7,9,4,5
+Joseph Hawkins,20000982,0418828015,julie52@hus.edu.vn,17,East Emilyborough,Khác,9,9,6,1,7
+Kathryn Richmond,20000120,0875867292,hlewis@hus.edu.vn,20,North Christopher,Nữ,3,9,1,6,7
+Samuel Miller,20000904,0008018484,gwilliams@hus.edu.vn,22,North Joe,Nam,6,5,0,4,3
+Michelle Walsh,20000824,0187896725,xgonzalez@hus.edu.vn,25,Lake Wandaberg,Khác,9,8,5,6,6
+Nicole Woodward,20000372,0957267760,mmason@hus.edu.vn,17,Fordburgh,Nam,2,1,0,5,10
+Kimberly Reyes,20000342,0869923411,matthewmiller@hus.edu.vn,25,West Harryfort,Nữ,2,2,0,7,3
+Laura Baker,20000818,0232613132,robert11@hus.edu.vn,20,West Ashleeton,Nam,6,9,8,8,0
+David Simpson,20000012,0758176298,dennis15@hus.edu.vn,22,Frankberg,Nam,3,6,3,3,3
+Molly Rogers,20000691,0821305774,colemanjessica@hus.edu.vn,19,East Traceymouth,Khác,8,3,4,1,4
+Lauren Clarke,20000964,0754126861,matthewcollins@hus.edu.vn,19,Martinezburgh,Khác,2,8,9,4,4
+Heather Lopez,20000966,0818892185,selena65@hus.edu.vn,21,Patrickburgh,Khác,8,1,2,7,9
+Jacob Hall,20000209,0633798720,igrant@hus.edu.vn,25,Juarezton,Khác,2,2,7,10,1
+Michael Allen,20000050,0043222154,lbailey@hus.edu.vn,21,North Angelaville,Nam,6,6,2,0,3
+Linda Hoffman,20000078,0675247431,wilsonbrandon@hus.edu.vn,21,South Kennethland,Khác,0,3,9,10,2
+Ernest Holmes,20000724,0123574074,danielle25@hus.edu.vn,18,Scottborough,Nam,5,7,8,4,4
+Melissa Carlson,20000039,0668646075,brianpayne@hus.edu.vn,23,North Bryanfurt,Khác,10,1,9,4,10
+Margaret Bryant,20000760,0792848726,codywashington@hus.edu.vn,24,East Colleenberg,Khác,3,7,5,4,6
+William Glass,20000891,0390198247,michael35@hus.edu.vn,19,East James,Nam,9,0,9,7,3
+Elizabeth Arellano,20000402,0609933903,huntoscar@hus.edu.vn,23,Prattberg,Khác,5,9,3,7,6
+Andrew Randall,20000276,0728679816,sstephens@hus.edu.vn,17,Elainechester,Nữ,5,3,10,7,4
+Gregory Forbes,20000037,0000695498,jessica47@hus.edu.vn,24,South Elizabethfurt,Nam,0,0,5,5,0
+Emily Lucas,20000561,0275179732,sally66@hus.edu.vn,19,North Matthewtown,Nữ,8,7,8,8,9
+Shannon Nguyen,20000465,0129661234,angela74@hus.edu.vn,23,Davidsonmouth,Nam,7,5,9,4,5
+Kayla Carroll,20000335,0242284667,jerry12@hus.edu.vn,24,East Maryberg,Nữ,6,10,4,6,10
+Brian Schmitt,20000846,0657461217,chendricks@hus.edu.vn,17,Thomasburgh,Khác,8,4,8,10,4
+Erika Terry,20000226,0909012413,williamwood@hus.edu.vn,18,South Richardborough,Nam,3,3,9,4,10
+Carl Rivera,20000634,0240036623,ashleythomas@hus.edu.vn,18,Jonesview,Nữ,7,5,2,7,8
+Jack Ramirez,20000522,0698051566,alyssawarren@hus.edu.vn,25,New Tracyville,Khác,7,10,0,4,4
+Ryan Reid,20000232,0859727753,xpalmer@hus.edu.vn,25,Michaelchester,Nữ,8,2,1,9,6
+Cynthia Lawson,20000266,0516969035,peter97@hus.edu.vn,20,Hamiltonton,Nữ,5,4,5,10,4
+Dawn Ruiz,20000600,0138612864,destrada@hus.edu.vn,22,Kennethfurt,Nam,3,8,5,2,0
+Tiffany Mills,20000063,0644860924,zowen@hus.edu.vn,21,East Coreychester,Khác,0,7,9,6,2
+Brianna Smith,20000611,0409254563,martinmiguel@hus.edu.vn,24,Williamsview,Khác,4,9,10,2,1
+Yvonne Hall,20000488,0689325196,esutton@hus.edu.vn,21,Lisaport,Khác,1,5,2,5,2
+Elizabeth Freeman,20000884,0941899650,villasummer@hus.edu.vn,20,Masonhaven,Nam,10,10,3,6,4
+Dominic Spears,20000028,0270898605,agraham@hus.edu.vn,24,Acevedoland,Nam,4,0,5,6,1
+Mary Davies,20000974,0970651954,brucejuan@hus.edu.vn,23,New Danielland,Khác,0,2,2,8,2
+James Turner,20000625,0947143222,sanchezbrittany@hus.edu.vn,19,Knightborough,Nữ,5,0,7,10,6
+Alexandria Taylor,20000667,0614013973,rogersloretta@hus.edu.vn,19,Lake Daniel,Nữ,1,8,8,0,3
+Joseph Smith,20000033,0027971561,laurensmith@hus.edu.vn,17,Powellview,Nữ,10,5,2,2,7
+Stacy Salazar,20000152,0935790484,allen96@hus.edu.vn,18,Port Anneport,Nam,10,5,10,2,4
+Michael Smith,20000092,0903712552,heidichapman@hus.edu.vn,19,Bowenmouth,Nam,2,3,5,10,8
+Janet Rodriguez,20000118,0803345602,samantharose@hus.edu.vn,17,Brandtton,Nam,4,9,0,7,7
+Rhonda Mora,20000526,0767125163,jacob88@hus.edu.vn,19,Barnesshire,Khác,5,9,1,7,8
+Eric Erickson,20000142,0573418824,jake86@hus.edu.vn,19,Leefurt,Khác,8,4,2,1,5
+Darrell Scott,20000630,0739479953,whartman@hus.edu.vn,23,Jeffreyside,Nữ,5,10,2,5,3
+Andrew Ramos,20000365,0646143014,qgarcia@hus.edu.vn,20,East Josephbury,Nữ,10,3,7,0,7
+Vincent Robbins,20000430,0264659439,aprilwilliams@hus.edu.vn,20,East Kristen,Nam,1,2,10,6,9
+John Martin,20000349,0796465272,maryburton@hus.edu.vn,22,Port Jenniferbury,Nam,7,9,1,9,9
+Joseph Miller,20000496,0333392466,valenciadanny@hus.edu.vn,19,South Allisontown,Nam,8,4,10,7,8
+Brittney Braun,20000742,0127683351,veronicawright@hus.edu.vn,17,Lake John,Nữ,8,5,9,5,4
+Maria Melton,20000294,0505410255,moorenicholas@hus.edu.vn,23,South Charles,Nữ,10,3,9,5,10
+Brian Hernandez,20000196,0585876157,pstephenson@hus.edu.vn,19,North Katrinachester,Nam,5,5,0,10,5
+Amanda Jones,20000096,0109398460,natashahernandez@hus.edu.vn,24,East Charlene,Khác,5,5,0,9,6
+Debra Webster,20000963,0554846654,iglover@hus.edu.vn,20,East Ryanside,Nữ,9,3,10,4,7
+Jennifer Coleman,20000822,0512254532,bcole@hus.edu.vn,23,Lake Timothyfurt,Nam,10,3,5,4,8
+Tommy Whitaker,20000794,0954071505,cody88@hus.edu.vn,22,North Pamelamouth,Khác,8,10,1,7,8
+Jim Wright,20000280,0859459666,fergusonscott@hus.edu.vn,23,Port Douglashaven,Nữ,4,9,0,1,0
+Eric Morris,20000346,0273448315,kennethhuerta@hus.edu.vn,23,East Karen,Khác,4,1,6,1,7
+Sarah Mccarthy,20000783,0143514166,charlesmiller@hus.edu.vn,20,Jasonview,Nam,2,9,10,5,4
+Amanda Francis,20000822,0624186070,toddthompson@hus.edu.vn,21,Ashleychester,Khác,1,5,7,10,10
+Mrs. Lisa Mason,20000785,0753194887,dnelson@hus.edu.vn,21,Bruceshire,Nam,8,5,5,4,7
+Debbie Carlson,20000108,0408496586,ernest70@hus.edu.vn,18,New Susanfurt,Nữ,5,7,6,8,3
+Jose Ryan,20000115,0285996062,powellmary@hus.edu.vn,24,Monroeville,Nữ,9,0,6,0,4
+Hannah Martin,20000812,0398763925,mrobinson@hus.edu.vn,21,Tateberg,Nam,6,4,4,6,9
+Robert Benitez,20000190,0875788359,darrellcaldwell@hus.edu.vn,19,Berrybury,Nam,1,5,8,7,8
+Leslie Horton,20000156,0653759637,phyllisdunlap@hus.edu.vn,20,East John,Khác,3,2,5,6,3
+Victoria Torres,20000339,0497148031,ylewis@hus.edu.vn,18,Gonzalezfurt,Khác,1,8,10,5,7
+Jessica Walker,20000036,0610624868,tpierce@hus.edu.vn,22,Jenniferhaven,Nam,0,6,3,2,2
+Kristen Johnson,20000622,0391939011,ajacobs@hus.edu.vn,21,West Crystal,Nam,2,4,3,6,9
+Rebecca Wheeler,20000903,0948157184,tracy25@hus.edu.vn,25,North Maurice,Khác,10,10,8,2,0
+Janet Johnson,20000577,0485371175,tramirez@hus.edu.vn,24,Phillipston,Nam,8,4,4,9,8
+Brandon Morgan,20000646,0802055171,david37@hus.edu.vn,21,East Joan,Nam,8,8,8,6,9
+Samantha Rodriguez,20000576,0140905712,wstanley@hus.edu.vn,25,West Eric,Nam,3,4,7,2,2
+Mark Campbell,20000470,0207231821,colleen82@hus.edu.vn,22,Valdezside,Khác,0,1,0,9,0
+Heather Kelly,20000573,0257171230,leejoseph@hus.edu.vn,22,New Stevenfort,Nữ,4,5,2,8,1
+Elizabeth Gibson,20000431,0957512914,yporter@hus.edu.vn,22,Colemanfurt,Khác,7,1,8,8,3
+Anthony Stewart,20000551,0908602810,fleminganna@hus.edu.vn,19,Browntown,Nam,1,0,8,2,4
+Seth Burns,20000488,0652108601,kimberlywilliams@hus.edu.vn,18,Juliestad,Nam,7,0,2,0,3
+Jessica Howell,20000878,0107507470,nelsonmichael@hus.edu.vn,25,Port Marybury,Nữ,3,1,9,4,7
+Brandon Long,20000052,0218746897,michael14@hus.edu.vn,22,East Josemouth,Nam,7,3,6,4,9
+Mathew White,20000438,0397528364,allisonford@hus.edu.vn,25,Pamelaton,Nữ,10,8,7,5,2
+Judy Jefferson,20000827,0839981335,zthompson@hus.edu.vn,25,New Madison,Nữ,10,10,9,3,8
+Travis Walker,20000749,0145893631,alopez@hus.edu.vn,24,Cooperburgh,Nam,1,5,2,4,5
+Lance Mccoy,20000986,0401143029,lindsay62@hus.edu.vn,22,Shelleymouth,Nam,4,9,10,2,5
+Matthew Hicks,20000870,0865695170,markreynolds@hus.edu.vn,18,Brewerport,Nữ,0,10,1,1,8
+Larry Contreras,20000979,0565167510,cooperjulie@hus.edu.vn,18,Lake Rogerhaven,Nữ,6,6,7,3,9
+James Salinas,20000148,0035122099,michaelfisher@hus.edu.vn,17,North Lauriebury,Khác,5,5,8,7,1
+Alyssa Campbell,20000333,0588753339,nancynguyen@hus.edu.vn,22,Mclaughlinmouth,Khác,5,9,0,5,1
+Christopher Evans,20000692,0873722998,jack82@hus.edu.vn,21,East Trevor,Khác,8,0,8,5,2
+Mark Riley,20000710,0300786214,adamstimothy@hus.edu.vn,24,Patriciaport,Khác,0,4,6,3,3
+Erica Rogers,20000604,0704352670,ojackson@hus.edu.vn,18,Harrischester,Nam,5,3,9,5,5
+Patrick Whitney,20000878,0083085583,derek45@hus.edu.vn,19,Baileyview,Nam,7,0,3,10,5
+Laura Hernandez,20000649,0360141348,william27@hus.edu.vn,25,Leachburgh,Nam,4,1,4,6,1
+Lauren Love,20000214,0495693962,donnagriffin@hus.edu.vn,22,Donaldview,Khác,2,5,6,6,10
+Katherine Huerta,20000438,0122515512,fitzgeraldjeremy@hus.edu.vn,20,South Jenniferbury,Nữ,0,6,5,10,0
+Jason Esparza,20000099,0469131602,jennifer78@hus.edu.vn,22,Wilsonhaven,Nữ,10,8,6,2,9
+Nicole Roberts,20000032,0694695272,mark03@hus.edu.vn,22,East Hollyville,Khác,4,10,3,0,8
+Phillip Clark,20000796,0833992062,jperez@hus.edu.vn,21,Blackburgh,Nữ,3,6,10,3,3
+Angela Terrell,20000388,0573090456,haleyyoung@hus.edu.vn,25,New Jason,Nữ,9,5,1,3,2
+Michael Hanson,20000273,0729650210,lopezmichelle@hus.edu.vn,19,Port Kevin,Khác,1,0,9,0,4
+Robert Robles PhD,20000855,0863890763,robertgarcia@hus.edu.vn,18,Bullockside,Khác,0,9,3,2,3
+Christopher Calderon,20000605,0598640817,efleming@hus.edu.vn,25,West Courtneyport,Khác,4,9,8,3,2
+Sherri Roach,20000249,0380351265,lwest@hus.edu.vn,18,Davidchester,Nam,3,5,4,9,2
+Melissa Houston,20000035,0757158724,npugh@hus.edu.vn,24,West Danielberg,Nữ,5,0,7,1,0
+Justin Hoffman,20000662,0660555507,jonathansmith@hus.edu.vn,24,New Brandibury,Khác,10,9,2,5,8
+Ashley Williams,20000155,0053955932,abigailkennedy@hus.edu.vn,20,Lake Sarah,Nam,6,1,2,4,5
+Michael Henderson,20000793,0370295639,douglastodd@hus.edu.vn,21,Wilsonmouth,Nam,4,7,7,4,2
+Antonio Mcdaniel,20000992,0671300637,smyers@hus.edu.vn,25,West Kevin,Nữ,7,1,9,7,5
+Joseph Villarreal,20000270,0171424590,angelarichards@hus.edu.vn,20,North Travis,Khác,9,2,7,9,4
+Melissa Brown,20000357,0548813708,cindyparker@hus.edu.vn,21,Mitchellville,Khác,10,5,6,3,10
+Heather Wong,20000000,0079821098,morrowtimothy@hus.edu.vn,17,Brianland,Nữ,7,5,10,0,2
+Michael Burke,20000871,0807433515,marksimmons@hus.edu.vn,23,Gatesfort,Khác,6,5,10,1,8
+Nicole Johns,20000281,0324507784,echan@hus.edu.vn,18,Port Tanya,Nam,6,4,1,5,10
+Ricardo Murphy,20000294,0244537832,david21@hus.edu.vn,20,Warrenview,Nữ,4,10,7,10,4
+James Stephens,20000437,0913655540,jevans@hus.edu.vn,22,North Johntown,Nam,3,5,1,9,10
+Matthew Moon,20000691,0337955610,wanda15@hus.edu.vn,22,South Amanda,Nam,2,5,10,4,3
+Connie Mullins,20000417,0445943342,billymason@hus.edu.vn,22,South Jon,Khác,6,10,5,3,2
+Amy Bennett,20000988,0380349988,riverajohn@hus.edu.vn,21,Cruzstad,Khác,9,0,9,0,10
+Jason Jones,20000800,0432653147,carlaguerrero@hus.edu.vn,25,Riceside,Khác,9,8,4,2,1
+Monica Fitzgerald,20000624,0172405172,ymcdowell@hus.edu.vn,25,Blanchardhaven,Khác,4,10,3,7,3
+Yvette Craig,20000614,0944760983,salinastricia@hus.edu.vn,23,Lindseymouth,Nữ,1,6,4,4,7
+Kristina Adams,20000061,0976088866,henryian@hus.edu.vn,20,Albertbury,Nam,10,4,8,3,6
+Brenda Medina,20000010,0768777460,daisysmith@hus.edu.vn,22,Wendyfurt,Nam,7,1,0,4,0
+Tricia Hall,20000205,0270307975,duncantaylor@hus.edu.vn,18,East Anne,Nữ,4,10,0,2,7
+Walter Watson,20000253,0401085469,lindsay46@hus.edu.vn,19,West Davidtown,Khác,10,9,3,4,4
+Peter Nguyen,20000030,0027686762,durandaniel@hus.edu.vn,25,Lake Angelaland,Nam,2,4,9,0,1
+John Davis,20000040,0518302165,watkinstim@hus.edu.vn,18,Wrightburgh,Nam,8,5,10,2,6
+Mary Peterson,20000705,0685901150,lisamcguire@hus.edu.vn,22,North Sarahmouth,Nữ,10,7,10,0,1
+Mr. Dave Thompson,20000208,0770720292,tyler45@hus.edu.vn,24,North Holly,Khác,3,3,2,6,3
+Derek Smith,20000048,0802257828,curtisroberts@hus.edu.vn,21,West Seth,Khác,5,8,3,8,2
+Scott Reed,20000852,0987643508,mdawson@hus.edu.vn,21,New Jocelyn,Nữ,4,8,2,2,2
+Lindsey Mendez,20000439,0673248184,jonathan73@hus.edu.vn,23,Port Jason,Nữ,0,3,9,4,4
+Monica Dixon,20000453,0990978167,danacosta@hus.edu.vn,21,Port Mallory,Nam,10,1,4,4,6
+Christopher Harvey,20000007,0576247058,shawchristopher@hus.edu.vn,24,Port Kathrynshire,Nam,2,4,4,3,9
+Sally Wood,20000478,0007370480,gary29@hus.edu.vn,19,South Whitneytown,Nữ,4,9,7,6,2
+Jeremy Klein,20000844,0720704676,pshaw@hus.edu.vn,25,Williambury,Khác,5,10,7,2,2
+David Robinson DDS,20000554,0190589923,dana13@hus.edu.vn,19,Brookeville,Nữ,5,9,8,3,5
+Dawn Contreras,20000776,0906946184,khoward@hus.edu.vn,22,Dawnbury,Nam,4,7,6,8,7
+Nathan Chavez,20000787,0911348222,eric98@hus.edu.vn,21,East William,Nam,2,6,1,6,7
+Robert Vasquez,20000713,0835927188,luis32@hus.edu.vn,22,Donnafort,Nữ,3,6,1,6,4
+Jason Werner,20000570,0662516504,laurenbutler@hus.edu.vn,25,South Jessica,Nữ,8,7,8,3,8
+Kelly Davis,20000141,0491661106,justin04@hus.edu.vn,21,North Amber,Khác,5,2,8,4,9
+Janet Clark,20000936,0456956477,pvega@hus.edu.vn,18,Smallburgh,Khác,4,7,9,7,6
+Sean Brooks,20000586,0355343226,allenjohnson@hus.edu.vn,25,Kimhaven,Nam,4,4,5,9,10
+Mrs. Jennifer Kelly,20000142,0169541498,robinsondanny@hus.edu.vn,18,Randyland,Khác,6,7,3,4,10
+Maria Henry,20000312,0264682905,colleen73@hus.edu.vn,25,Lopeztown,Khác,3,5,8,1,1
+Dr. Ashley Watson,20000552,0500532772,justincobb@hus.edu.vn,19,South Sharonside,Nam,4,8,10,7,8
+Andrea Dillon,20000694,0234023664,erinkirk@hus.edu.vn,21,Loganchester,Khác,6,2,1,3,8
+Miguel Salinas,20000820,0617885504,brookspeter@hus.edu.vn,20,Lake Melissa,Khác,8,9,3,3,7
+Deborah Mccall,20000711,0715847843,christymeadows@hus.edu.vn,24,Michelefort,Khác,0,2,5,4,2
+Jonathan Burton,20000832,0380772445,christopher29@hus.edu.vn,17,Port Colleenland,Khác,10,7,7,3,2
+Rebecca Woodard,20000890,0985363413,freemansara@hus.edu.vn,21,Markville,Nữ,10,1,9,7,6
+Savannah Becker,20000064,0630997376,kgarcia@hus.edu.vn,23,Port Debra,Nam,2,10,2,10,4
+Joseph Prince,20000062,0467449806,melissa41@hus.edu.vn,17,Amandaport,Nữ,8,6,6,10,5
+Jeffrey Thompson,20000346,0432574988,kevinvillegas@hus.edu.vn,24,Bradleymouth,Nữ,6,5,1,0,10
+Denise Wright,20000352,0338489385,curtis77@hus.edu.vn,19,Shepherdburgh,Nam,0,7,8,10,3
+Jasmine Ray,20000069,0890380733,steven06@hus.edu.vn,25,Meadowsfort,Khác,8,2,5,9,3
+Luke Smith,20000585,0248862784,ggarrett@hus.edu.vn,21,New Aaronport,Nam,8,6,9,3,9
+Amber Calhoun,20000311,0024318889,jordan87@hus.edu.vn,19,East Samanthaton,Khác,9,8,5,6,6
+Martin Mitchell,20000147,0227825538,kellyrichard@hus.edu.vn,17,North Josephfurt,Nam,7,6,5,4,3
+Joshua Russell,20000170,0456556051,williamsdean@hus.edu.vn,19,Myersview,Nam,6,6,3,10,5
+Sarah Mahoney,20000111,0697803226,wpennington@hus.edu.vn,22,Jenniferberg,Nam,3,9,0,5,3
+Brittany Hunt,20000952,0866665373,njohnson@hus.edu.vn,18,Matthewshire,Nam,10,6,8,6,10
+Maria Raymond,20000323,0263889404,bakergeorge@hus.edu.vn,22,North Bradmouth,Nữ,4,1,9,3,2
+Laura Perez,20000832,0737668464,hkim@hus.edu.vn,24,Lake Janice,Nữ,6,4,3,6,2
+Joshua Young,20000819,0860454204,tracieyoung@hus.edu.vn,21,Port Nicholas,Nữ,4,3,2,7,3
+Elizabeth Kidd,20000047,0342104518,vanessabarnett@hus.edu.vn,22,Rochaport,Khác,7,0,7,6,7
+Darren Potter,20000844,0194416040,qjenkins@hus.edu.vn,18,Nathanielland,Khác,3,3,6,8,10
+Ashley Watkins,20000980,0444205576,tbailey@hus.edu.vn,23,Lake Raymondville,Nữ,9,4,7,5,10
+Dorothy Wiley,20000792,0157262514,ruizjason@hus.edu.vn,19,Clarkport,Nữ,8,2,0,7,6
+Valerie Rice,20000967,0086060910,uarnold@hus.edu.vn,18,North Patrickmouth,Nữ,5,8,10,6,9
+Kaylee Singleton,20000807,0129836145,wallergary@hus.edu.vn,25,East Billy,Khác,9,4,2,7,7
+Kathy Obrien,20000947,0995706033,leestevens@hus.edu.vn,22,North Alexandraport,Nam,3,7,7,3,4
+Mrs. Heidi Mckenzie,20000935,0133417774,pperry@hus.edu.vn,18,Micheleland,Khác,3,2,8,8,10
+Laura Caldwell DVM,20000081,0653324170,katherinehood@hus.edu.vn,25,Robertsland,Khác,2,5,1,9,2
+Jennifer Hunter,20000028,0859892858,bingram@hus.edu.vn,21,Port Curtis,Khác,4,5,1,8,3
+Richard Thomas,20000416,0120980311,ywillis@hus.edu.vn,21,Craneside,Khác,1,7,7,6,10
+Rebecca Taylor,20000361,0663062191,ujoseph@hus.edu.vn,24,East Joestad,Nữ,6,2,7,3,10
+Kimberly Parks,20000862,0676516107,wilsonvincent@hus.edu.vn,21,Port Kimberly,Nữ,2,7,2,3,0
+Nicholas Flores,20000182,0050517479,michaelwilliams@hus.edu.vn,17,Port Brandon,Khác,9,1,5,5,2
+Samantha Griffin,20000606,0431511533,flowersmark@hus.edu.vn,22,West Benjamin,Nam,1,3,1,7,8
+Stephanie Oliver,20000392,0027401423,thomasstewart@hus.edu.vn,20,Lake Lisaport,Nam,6,3,0,0,7
+Brandon Ellis,20000144,0726698891,andrew75@hus.edu.vn,18,Potterville,Khác,6,6,3,8,1
+Megan Benjamin,20000174,0784596856,yjohnson@hus.edu.vn,24,Allisonberg,Khác,4,10,9,0,8
+Andrew Carpenter,20000477,0830350740,christopher47@hus.edu.vn,24,Lake Tiffanyville,Nữ,2,4,10,0,0
+Suzanne Fleming,20000917,0346932765,harrisontyler@hus.edu.vn,24,Amberbury,Nữ,9,2,3,9,2
+Jessica Crawford,20000903,0520585676,vclark@hus.edu.vn,20,Bradleychester,Nam,9,10,8,1,6
+Dennis Lee,20000909,0561256258,nelsonjessica@hus.edu.vn,23,Lake William,Nam,5,4,2,10,7
+Natalie Wall,20000717,0593176343,jimmy51@hus.edu.vn,24,Murphymouth,Khác,4,9,5,2,0
+Alexander Smith,20000126,0613388551,robertjones@hus.edu.vn,19,Robbinshaven,Nữ,2,4,3,3,4
+Amy Garcia,20000610,0066474427,tiffanysingleton@hus.edu.vn,22,Boydburgh,Nam,5,3,4,7,5
+Anthony Walker,20000711,0976231389,ashleydavid@hus.edu.vn,24,Kristinamouth,Nam,7,1,3,9,0
+Carolyn Dean,20000301,0630954727,harrisbrent@hus.edu.vn,17,Emilyland,Nữ,1,1,4,7,2
+Ashley Webb,20000510,0385227295,davidwilliams@hus.edu.vn,25,West Jaime,Nam,4,10,10,7,7
+Allen Payne,20000752,0209208271,thicks@hus.edu.vn,25,Stephanieville,Nam,1,8,0,6,4
+Kim Reynolds,20000974,0491066354,cmaldonado@hus.edu.vn,22,Mooreburgh,Nữ,5,0,9,6,10
+Chris Suarez,20000305,0874483810,burkemelissa@hus.edu.vn,21,Simpsonville,Nữ,2,8,4,5,7
+Christine Craig,20000426,0208540330,robert74@hus.edu.vn,17,Lake Tammyside,Nam,8,10,6,5,5
+Michelle Hernandez DDS,20000862,0097061494,martha20@hus.edu.vn,24,New Mark,Nữ,10,2,9,7,10
+James Barrera,20000557,0224873028,rickymorales@hus.edu.vn,21,Tylerberg,Nam,6,8,9,6,9
+Eric White,20000680,0830643803,robert88@hus.edu.vn,24,Clarkmouth,Nữ,10,3,7,5,7
+Brandon Clark,20000621,0582397726,joshuachapman@hus.edu.vn,23,Kristyton,Nữ,6,6,9,5,5
+Cameron Wright,20000143,0447239237,alicia57@hus.edu.vn,20,North Larryport,Nữ,2,2,2,2,2
+Michael Washington,20000465,0078107752,ashleysullivan@hus.edu.vn,17,East Saraberg,Khác,10,6,5,5,9
+Paul Berry,20000678,0147634294,frederick74@hus.edu.vn,21,New Katherinefurt,Nữ,3,6,2,8,8
+Kayla Allen,20000155,0146196373,rebeccafrench@hus.edu.vn,19,New Loribury,Nữ,9,0,3,10,10
+Sara Snyder,20000926,0911564787,jacqueline16@hus.edu.vn,18,Paulfurt,Nữ,8,6,3,9,2
+Kristin Orr,20000319,0037221343,amandasantiago@hus.edu.vn,18,North Amandaport,Nữ,7,3,4,5,6
+Carmen Rodriguez,20000240,0364573224,jnunez@hus.edu.vn,20,Port Raymond,Nữ,1,7,5,3,5
+Gwendolyn Figueroa,20000002,0650942828,dillon09@hus.edu.vn,17,Calderonshire,Khác,8,2,0,8,10
+Joshua Mason,20000523,0051605451,caroline15@hus.edu.vn,23,Heathertown,Nam,1,0,9,2,8
+Tiffany Gallagher,20000183,0874882904,mathewsmichael@hus.edu.vn,20,North Patrick,Nữ,9,6,2,3,2
+Kristina Thomas,20000004,0692890285,jonestonya@hus.edu.vn,23,Lake Carolynbury,Nam,0,9,2,9,3
+Julie Hardy,20000560,0266130769,matthewmacdonald@hus.edu.vn,23,Matthewmouth,Nữ,2,9,5,2,1
+Charles Hansen,20000529,0953179384,brandymullins@hus.edu.vn,24,Lake Todd,Khác,3,6,7,7,5
+Derek Rice,20000516,0448654544,warcher@hus.edu.vn,20,Normanfurt,Khác,1,2,5,8,3
+David Smith,20000140,0781302516,kimandrews@hus.edu.vn,19,Ianbury,Nữ,8,2,6,6,3
+Brenda Doyle,20000727,0041932924,angelanguyen@hus.edu.vn,22,Danieltown,Nữ,5,1,3,1,7
+Jeffery Griffin,20000168,0480160682,gregory19@hus.edu.vn,25,West Paula,Nam,0,5,5,0,2
+Bryan Jennings,20000651,0305667605,hjones@hus.edu.vn,25,South Dustinmouth,Khác,2,7,1,4,6
+Ronald Houston,20000103,0099430103,coxbarbara@hus.edu.vn,23,Port Justin,Nữ,9,7,4,3,9
+Adam Webster,20000538,0769964592,dsilva@hus.edu.vn,17,Mosesberg,Khác,3,4,10,7,6
+Kellie Young,20000860,0002017785,imerritt@hus.edu.vn,24,North Meghanhaven,Nam,7,6,9,3,7
+Edward Edwards,20000184,0570966202,qbranch@hus.edu.vn,17,Richardburgh,Khác,3,8,0,7,3
+Scott Cox,20000483,0122929728,ashleybailey@hus.edu.vn,18,Brianborough,Nữ,3,6,6,0,10
+Jerry Williams,20000923,0267601961,sherri72@hus.edu.vn,25,Leeshire,Nam,0,0,5,7,9
+Casey Nguyen,20000659,0714690468,lstevenson@hus.edu.vn,22,New Sherri,Khác,5,8,2,10,10
+Jade Terry,20000620,0549713811,alexis30@hus.edu.vn,25,North Jakestad,Khác,0,6,6,6,9
+Teresa Cannon,20000339,0638751500,angelarichardson@hus.edu.vn,19,Kathleenside,Khác,0,10,7,10,0
+Ashley Williams,20000890,0775174075,troy96@hus.edu.vn,24,South Nancy,Khác,1,8,9,10,4
+Timothy Nguyen,20000739,0050623974,zburns@hus.edu.vn,23,North Samanthatown,Nữ,9,10,7,6,2
+David Russo DDS,20000801,0183448721,vgarcia@hus.edu.vn,18,Downsville,Khác,10,9,8,9,6
+Jonathan Burns,20000329,0438089146,john34@hus.edu.vn,25,Davidmouth,Nữ,2,4,2,1,7
+Jason Green,20000907,0976539731,crystalestrada@hus.edu.vn,24,West Ericton,Nam,0,10,7,2,5
+Kenneth Delacruz,20000756,0456717445,umitchell@hus.edu.vn,22,New Lonnieside,Khác,0,9,2,9,8
+William Villarreal,20000307,0843455257,tinalewis@hus.edu.vn,18,Judithshire,Nam,10,3,1,5,6
+Carol Rodgers,20000932,0225048260,crystal99@hus.edu.vn,24,Port Christopher,Nữ,5,7,3,1,10
+Vanessa Gonzalez,20000746,0918382597,devon44@hus.edu.vn,21,Jenkinsbury,Khác,0,6,0,6,0
+Larry Tucker,20000846,0103242176,melissa69@hus.edu.vn,18,Port Daniel,Khác,0,8,6,5,3
+Steve Jones,20000765,0720945848,zachary65@hus.edu.vn,18,Jonathanshire,Nam,8,10,7,4,0
+Amy Stewart,20000159,0283733038,paulkent@hus.edu.vn,21,Angelaton,Khác,2,10,0,8,2
+Karen Torres,20000672,0645998222,jimmyball@hus.edu.vn,22,Scottfort,Khác,6,9,3,9,10
+Stephen Cowan,20000371,0467498293,aaronjones@hus.edu.vn,20,East Laurachester,Nữ,6,3,8,7,1
+Anna Brown,20000855,0154507368,fosterholly@hus.edu.vn,23,Gutierrezland,Nữ,0,1,3,10,6
+Amanda Simpson,20000832,0561659776,khoover@hus.edu.vn,17,North Brittany,Nam,4,10,4,6,9
+Kelly Freeman,20000408,0807357700,john96@hus.edu.vn,23,North Justinhaven,Khác,7,4,5,3,9
+Peter Tucker,20000993,0697599816,jennifermiller@hus.edu.vn,21,West Nicholasburgh,Nam,2,3,5,9,7
+Alexander Smith DDS,20000671,0857198035,charlesfoster@hus.edu.vn,25,North Saraview,Nữ,4,5,3,1,5
+Joseph Munoz,20000639,0576365222,riveraallison@hus.edu.vn,18,Ryanstad,Nam,8,7,2,10,9
+Michele Caldwell,20000493,0099416577,melissa12@hus.edu.vn,17,Christopherfort,Nam,2,7,7,0,7
+Jason Evans,20000772,0858634644,hilllisa@hus.edu.vn,24,Port Sandra,Nam,1,4,4,10,10
+Laura Eaton,20000677,0639089291,joshua32@hus.edu.vn,20,West Tyler,Nữ,1,8,10,2,3
+Ms. Melissa Murphy,20000660,0474060758,kingashley@hus.edu.vn,19,Lake Raymond,Nữ,0,6,4,10,10
+Richard Carter,20000551,0562142970,schroederanna@hus.edu.vn,20,Lake Bobbyton,Khác,5,8,8,4,10
+Carol King,20000777,0922390916,edwardthompson@hus.edu.vn,17,East Lisa,Nam,9,3,7,1,0
+Miguel Macias,20000590,0644862366,nhawkins@hus.edu.vn,21,Sonyaburgh,Khác,1,1,9,9,5
+Sarah Smith,20000228,0773934680,mirandamcdaniel@hus.edu.vn,19,Taylorville,Nam,3,8,3,1,5
+Molly Johnson,20000645,0686946452,gainesjason@hus.edu.vn,19,West Jasmin,Nam,0,0,0,2,5
+Grace Anderson,20000650,0066118377,whiteeric@hus.edu.vn,22,South Catherineview,Khác,5,0,1,2,2
+Jimmy Davis,20000195,0181060385,fowlerlaurie@hus.edu.vn,22,South Paul,Nam,10,2,10,8,8
+Sonya Cummings,20000953,0811022664,cking@hus.edu.vn,23,Beckfort,Khác,5,3,7,5,0
+Linda Stevenson,20000300,0174006195,harringtonmichael@hus.edu.vn,20,South Kevin,Khác,6,7,5,10,2
+Felicia Mendez,20000152,0289073837,joseph02@hus.edu.vn,20,Lake Cynthia,Khác,4,9,10,5,10
+Lori Turner MD,20000260,0898366624,martinchristina@hus.edu.vn,23,West Todd,Khác,5,8,3,6,8
+Jason Mills,20000313,0102659898,william31@hus.edu.vn,20,Joyceborough,Nam,8,9,10,0,9
+Matthew Wagner,20000847,0493315466,garrettchristopher@hus.edu.vn,23,Andersonshire,Nam,9,10,10,6,6
+Beth Carroll,20000501,0356746442,yumichael@hus.edu.vn,23,Port Justinshire,Nữ,9,9,8,10,7
+Brandy Carter,20000426,0946456663,pattersonpaul@hus.edu.vn,17,Williamfurt,Khác,2,5,7,10,6
+Dr. Shannon Lawson,20000626,0972530326,jane90@hus.edu.vn,20,Lindaberg,Nam,10,10,5,1,7
+Janet Gonzalez,20000189,0364125119,ebeck@hus.edu.vn,21,Nealborough,Khác,4,0,8,4,7
+Timothy Delgado,20000694,0912307802,raymond04@hus.edu.vn,17,Grahamborough,Nam,1,5,9,10,10
+Sarah Parker,20000645,0915590142,jeffrey55@hus.edu.vn,19,Port Coryport,Nam,6,10,7,6,0
+Richard Boyer,20000130,0680550425,bberger@hus.edu.vn,19,Lake Brian,Nam,1,4,10,5,8
+David Moreno,20000152,0112683344,carias@hus.edu.vn,24,Cherylburgh,Nữ,9,9,9,5,9
+Brian Bryant,20000280,0910321924,alexiswilliams@hus.edu.vn,18,New Jillborough,Nữ,0,10,4,7,4
+Andrew Hoover,20000487,0726645202,dwilliams@hus.edu.vn,25,North Arielville,Khác,5,1,2,5,7
+Kevin Hale,20000785,0114168912,pharrison@hus.edu.vn,23,Port Richard,Nam,3,10,1,8,5
+Shelby Buckley,20000895,0238727964,simmonsmarc@hus.edu.vn,19,Erichaven,Nam,8,1,5,5,3
+Donald Bates,20000800,0914048611,hillstanley@hus.edu.vn,18,North Mary,Nam,4,0,2,6,9
+Tammy Avery,20000880,0896763423,bennettmichelle@hus.edu.vn,21,Russelltown,Nữ,6,6,5,4,7
+Alexander Perkins,20000436,0979437249,kimberly09@hus.edu.vn,21,Port Nathaniel,Nam,8,0,1,4,6
+Casey Valdez,20000114,0304649842,stephen42@hus.edu.vn,19,Port Jonathanchester,Nữ,2,6,6,2,2
+Mr. Michael Stevenson,20000445,0806879679,williamadams@hus.edu.vn,19,West Kevinmouth,Nữ,0,9,6,10,3
+Christine Smith,20000321,0438219728,kimberlyfisher@hus.edu.vn,18,Jackbury,Nữ,7,3,6,3,0
+Melissa Sanchez,20000436,0695427915,garciacole@hus.edu.vn,19,Newmanburgh,Nam,1,3,2,0,8
+Nathan Richardson,20000711,0043592786,jenniferpowell@hus.edu.vn,25,Port Georgefort,Khác,8,3,9,10,2
+Devin Montgomery,20000974,0717694161,jasoncohen@hus.edu.vn,24,New Amandafurt,Nữ,1,0,7,4,5
+Greg Weber,20000716,0013215942,millerkenneth@hus.edu.vn,24,East Annette,Nữ,8,4,6,7,0
+Mr. Tommy Howell DVM,20000792,0831239353,scastillo@hus.edu.vn,17,Phillipsshire,Nam,1,9,3,5,3
+James Armstrong,20000481,0439184313,pamela81@hus.edu.vn,19,Calvinborough,Khác,0,8,4,7,8
+Thomas Martin,20000338,0086697232,zacharylin@hus.edu.vn,22,Jasonburgh,Nam,0,1,8,4,1
+Frank Jefferson,20000896,0703535005,griffithfrank@hus.edu.vn,19,North Dennisview,Nam,1,4,5,6,10
+Michael Rice,20000419,0745670856,alyssa25@hus.edu.vn,22,East Alexisport,Khác,0,0,6,5,9
+Nancy Perry,20000737,0539562334,tami79@hus.edu.vn,22,Lake Victorborough,Nam,8,3,4,6,8
+Christopher Schmitt,20000992,0847814861,jamescampbell@hus.edu.vn,21,Jamesborough,Nam,2,1,3,10,1
+Barbara Flores DVM,20000802,0795766381,albertwatson@hus.edu.vn,24,Brookemouth,Khác,2,2,5,6,10
+Caitlin Thomas,20000413,0699121280,rvelasquez@hus.edu.vn,18,Holmesstad,Nữ,10,2,7,4,7
+Ms. Beth Payne,20000340,0553029170,edward14@hus.edu.vn,24,Prestonmouth,Nữ,2,6,5,8,7
+Ms. Angela Clark,20000075,0335519916,vdavis@hus.edu.vn,18,Jaredfurt,Khác,0,4,2,8,3
+Tracy Taylor,20000414,0081510316,justin88@hus.edu.vn,18,New Travisside,Khác,5,1,9,7,9
+Juan Keith,20000247,0225954988,wsmith@hus.edu.vn,21,New Frankview,Khác,2,4,10,5,5
+Alexander Steele,20000133,0645476598,clarkmonica@hus.edu.vn,19,Stephenfurt,Nam,1,8,10,4,9
+Brittany Wilson,20000287,0461607141,ganderson@hus.edu.vn,19,Beststad,Khác,1,7,0,2,6
+Donna Mcpherson,20000476,0958805256,catherine43@hus.edu.vn,20,Rogersfort,Nữ,2,0,5,7,9
+Logan Perry,20000304,0059645636,justin54@hus.edu.vn,17,East Michael,Nam,7,6,9,1,2
+Christopher Donovan,20000292,0461786918,jessica71@hus.edu.vn,22,Port Amanda,Khác,9,3,9,5,4
+Heather Jarvis,20000804,0310339867,nowens@hus.edu.vn,17,New Michael,Khác,6,3,8,10,1
+Eric Nelson,20000412,0714897453,gvega@hus.edu.vn,23,West Andrehaven,Nữ,1,6,7,2,6
+Eric Schroeder,20000796,0711088911,jonathangill@hus.edu.vn,18,West Ronald,Khác,1,5,10,6,9
+Robert Welch Jr.,20000384,0245678542,brandonrodriguez@hus.edu.vn,21,Graveston,Khác,5,1,4,6,1
+Nicole Taylor,20000743,0490150788,daltonadrienne@hus.edu.vn,23,Solomonstad,Nam,8,5,8,4,2
+Kaitlyn Randall,20000356,0315479391,wsolis@hus.edu.vn,21,East Heather,Nam,6,5,4,8,9
+Matthew Watson,20000223,0568187596,amy77@hus.edu.vn,22,South Sandra,Khác,2,4,8,9,5
+Mark Hicks,20000680,0813897596,ricky08@hus.edu.vn,23,New Danielburgh,Khác,10,10,4,8,8
+Elizabeth Vega,20000848,0475175923,nanderson@hus.edu.vn,17,Rodriguezside,Nam,10,5,10,4,3
+Christopher Glass,20000069,0178945817,padillanatalie@hus.edu.vn,25,North Douglasville,Nữ,6,10,3,10,0
+Robert Jones,20000060,0237017872,george50@hus.edu.vn,24,Teresaborough,Nữ,3,7,1,7,8
+Aaron Lopez,20000097,0789469284,emily16@hus.edu.vn,23,Nelsonfort,Nữ,3,3,7,0,7
+Sarah Gutierrez,20000336,0481425921,kaufmangloria@hus.edu.vn,25,Andersonburgh,Khác,4,4,9,6,0
+Alexa Parrish,20000933,0432502134,taylorashley@hus.edu.vn,17,South Robert,Nam,8,3,2,0,6
+Brandon Weaver,20000934,0192686537,conniebenson@hus.edu.vn,21,New Olivia,Nam,9,3,0,2,7
+Matthew Callahan,20000651,0633034280,rfowler@hus.edu.vn,24,South Joshua,Khác,0,7,0,3,0
+Michael Cook,20000171,0117538380,evansrachel@hus.edu.vn,19,East Angela,Khác,9,6,4,9,3
+Steven Romero,20000335,0185702664,wrodriguez@hus.edu.vn,17,Martinton,Khác,10,2,8,4,9
+Matthew Nielsen,20000902,0710485523,susanclark@hus.edu.vn,21,Lake Keith,Nữ,2,3,1,6,1
+Ryan Moore,20000075,0132926180,khendrix@hus.edu.vn,22,Markburgh,Nữ,6,0,8,2,6
+Amber Cameron,20000664,0871376914,ryan06@hus.edu.vn,21,West Robert,Khác,9,8,1,9,2
+Amanda Wolf,20000527,0915238195,aanderson@hus.edu.vn,18,South Christopher,Khác,0,9,0,4,8
+Rebecca Caldwell,20000341,0525572655,robbinscaitlyn@hus.edu.vn,23,New Juanstad,Nữ,2,1,7,8,8
+Kara Mosley MD,20000816,0368656337,willisashley@hus.edu.vn,19,Port Carrieville,Khác,9,5,8,8,8
+Adrian Harris,20000651,0577571575,saundersjames@hus.edu.vn,25,Burtonburgh,Khác,1,5,9,3,6
+Brian Ortiz,20000720,0222875282,chavezdavid@hus.edu.vn,18,Lake Rhonda,Nữ,4,2,3,6,5
+Kaitlyn Keller,20000003,0378933302,angelasmith@hus.edu.vn,25,Port Michaelstad,Khác,8,0,10,2,2
+Amanda Hall,20000304,0333096977,knightjennifer@hus.edu.vn,20,Melendezchester,Khác,9,4,8,10,5
+Melissa Porter,20000407,0013495802,gilmoremichael@hus.edu.vn,24,Port Elizabeth,Nam,4,1,0,5,4
+Pedro Owens,20000710,0394228673,hhoffman@hus.edu.vn,24,Gilmoreborough,Nữ,4,5,7,1,5
+April Clark,20000363,0340058016,cynthiajimenez@hus.edu.vn,22,Jeffreyberg,Khác,2,3,7,10,4
+Xavier Villarreal,20000554,0545900561,matthewbrown@hus.edu.vn,23,Jamesshire,Nữ,2,4,0,8,7
+Amy French,20000029,0682456504,amyedwards@hus.edu.vn,19,South Johnathan,Nữ,8,4,3,8,4
+Charlotte Bailey,20000461,0608139569,arodriguez@hus.edu.vn,20,Brandonville,Khác,3,6,8,8,5
+Lauren Gay DVM,20000935,0145671092,reevesnicole@hus.edu.vn,19,Hoffmanhaven,Khác,4,7,5,0,7
+Terry Coleman,20000729,0742641282,terrance58@hus.edu.vn,20,South Kelsey,Nữ,3,0,2,0,2
+Edward Warren,20000928,0764836573,curtis46@hus.edu.vn,18,New John,Nam,9,0,0,7,5
+Philip Yu,20000412,0818698517,danielolson@hus.edu.vn,21,South Sydneyborough,Nam,3,2,9,2,7
+Kimberly Johnson,20000299,0556988767,rpatel@hus.edu.vn,17,New Christopherside,Khác,8,3,8,9,9
+Steven Irwin,20000390,0895560337,aprilduncan@hus.edu.vn,18,South Phyllisfort,Nữ,8,8,8,10,10
+Frances Reed,20000846,0582137492,mosleyelizabeth@hus.edu.vn,23,New Nicholas,Nữ,6,2,3,0,10
+Susan White,20000752,0253893217,emilymartinez@hus.edu.vn,22,Lake Curtis,Nam,2,1,8,7,5
+Emily Patterson,20000184,0019546291,pblair@hus.edu.vn,22,West Josephport,Nữ,3,8,4,7,8
+Michael Nguyen,20000826,0163734638,rickyjordan@hus.edu.vn,21,Sharonbury,Nam,6,7,0,8,9
+Jonathan Moore,20000243,0866277061,ygarcia@hus.edu.vn,25,Port Joseside,Nam,4,6,6,6,10
+Gabrielle Harmon,20000880,0418688722,thomassean@hus.edu.vn,22,Amberland,Khác,1,7,1,7,3
+Jessica Ray,20000311,0817274393,jenniferalvarez@hus.edu.vn,17,Josephborough,Nam,9,6,9,2,4
+Sonya Wolf,20000186,0018444051,katrina48@hus.edu.vn,22,Jorgebury,Nam,6,9,9,3,2
+Amanda Soto,20000775,0804313070,otaylor@hus.edu.vn,24,Port Joannton,Khác,7,0,4,7,1
+Shane Bradley,20000269,0039281080,esteserica@hus.edu.vn,24,Taylorborough,Nam,2,7,8,5,5
+Christopher Carroll,20000829,0495000023,droberts@hus.edu.vn,24,New Chad,Khác,6,10,5,1,6
+Karen Clark,20000404,0279010212,colleen72@hus.edu.vn,23,East Joshuamouth,Nữ,5,0,4,0,1
+Gregory Fletcher,20000647,0116650796,daniel21@hus.edu.vn,22,Jacksonhaven,Nữ,4,1,1,10,1
+Nicole Sherman,20000392,0035253031,meganchristensen@hus.edu.vn,17,New Thomasfort,Khác,10,9,10,8,8
+Brian Ramirez,20000636,0200900652,jamie90@hus.edu.vn,23,Edwardsside,Khác,5,10,6,9,1
+Lauren Gomez,20000585,0590830428,wreed@hus.edu.vn,25,Lake Jacobhaven,Khác,10,1,1,10,3
+Jeremiah Cain,20000138,0534628372,james13@hus.edu.vn,24,New Annstad,Nữ,6,6,0,0,6
+Michele Reid,20000895,0008098584,cynthiathompson@hus.edu.vn,22,East Thomas,Nam,1,6,5,2,5
+Victoria Smith,20000905,0362134520,andreagordon@hus.edu.vn,21,Chadburgh,Khác,3,5,1,3,8
+Rebekah Farrell,20000763,0130164750,simmonsgloria@hus.edu.vn,19,Webermouth,Nam,2,6,6,6,4
+Mitchell Hood,20000798,0881260638,mramos@hus.edu.vn,19,South Katherineberg,Khác,8,2,10,0,9
+Daniel Humphrey,20000361,0822256541,pagebethany@hus.edu.vn,22,North Danielbury,Nữ,0,0,0,2,1
+Neil Curtis,20000353,0412454444,mhernandez@hus.edu.vn,17,Joneschester,Nữ,3,3,2,9,9
+Michael Anderson,20000548,0808009492,marvin76@hus.edu.vn,17,Morenoville,Khác,2,4,7,2,10
+Mrs. Brenda Stewart,20000555,0057908597,andrew89@hus.edu.vn,24,Danielburgh,Khác,7,4,3,9,4
+Rachel Harris,20000786,0246379069,robertowilliams@hus.edu.vn,19,New Sharonville,Khác,5,2,6,9,6
+Rickey Ware,20000925,0333943309,sydney68@hus.edu.vn,20,Guerrerofort,Nam,6,8,7,8,6
+Robert Marshall,20000022,0119549786,josephfernandez@hus.edu.vn,17,Andersonview,Nữ,5,0,8,3,9
+Brittany Merritt,20000472,0014958186,jacob26@hus.edu.vn,18,New Sonya,Nữ,2,1,0,9,10
+Joanna Taylor,20000802,0519464346,emilyroberts@hus.edu.vn,24,East Devinchester,Nữ,5,3,5,10,10
+Scott Marquez,20000987,0309688482,tami81@hus.edu.vn,22,West Peggy,Khác,3,0,7,4,4
+Jessica Harris,20000395,0865795087,otaylor@hus.edu.vn,21,North Megan,Nam,0,8,7,2,4
+Susan Hernandez,20000815,0193660718,jonescarrie@hus.edu.vn,22,Lake Robertburgh,Khác,9,6,1,5,9
+Gerald Johnson,20000197,0689447499,nicholasdavis@hus.edu.vn,25,Charlesshire,Nam,1,4,3,4,5
+Gene Reyes,20000617,0504883396,marylara@hus.edu.vn,22,Port Chelseaton,Khác,4,10,0,9,3
+Laura Johnson,20000586,0564469244,angelabooth@hus.edu.vn,22,West Christopher,Nữ,7,9,3,0,5
+Tony Lewis,20000291,0727720101,travishunt@hus.edu.vn,23,Port Erintown,Nam,7,8,1,0,10
+Jacob Mclaughlin,20000242,0943330138,janet46@hus.edu.vn,24,West Jamiechester,Nam,3,9,10,1,8
+David Stark,20000008,0854572207,susanking@hus.edu.vn,23,South Donnaberg,Nữ,6,7,1,0,0
+Gary Reed,20000144,0317705064,sabrina83@hus.edu.vn,25,Matthewbury,Khác,0,0,1,0,8
+Joshua Reyes,20000197,0749568580,hendricksalexis@hus.edu.vn,21,South Lindahaven,Khác,4,10,5,4,1
+Thomas Schaefer,20000258,0844474418,torresjohn@hus.edu.vn,21,Port Amyton,Nam,7,9,5,4,4
+Steven Ford,20000881,0147725678,valdezlauren@hus.edu.vn,20,Pruittfurt,Nam,5,10,10,9,0
+Matthew Barrett,20000095,0649008279,carolyn35@hus.edu.vn,24,Bakerville,Nam,0,3,7,10,3
+Ann Ritter,20000059,0731272058,dixonsharon@hus.edu.vn,18,Cherylview,Khác,6,1,5,9,3
+Jennifer Simpson,20000206,0510532348,matthew10@hus.edu.vn,22,Bakerville,Khác,2,3,7,2,1
+Lawrence Rangel,20000339,0903340937,omiller@hus.edu.vn,19,Christinefort,Nam,5,10,6,5,6
+John Kemp,20000675,0620885337,brianjackson@hus.edu.vn,22,Aguirrefort,Nữ,8,4,8,8,10
+Sandra Garcia,20000012,0081599973,connorflores@hus.edu.vn,25,West Lisaview,Nữ,5,8,9,1,9
+Lauren Cooper,20000272,0338403783,taylorjuarez@hus.edu.vn,19,Lake Cherylville,Nam,6,2,8,6,8
+Michael Hamilton,20000280,0832478982,jatkins@hus.edu.vn,24,West Elizabethshire,Nữ,0,0,7,0,4
+Chris Boyd,20000896,0119284803,mckinneydavid@hus.edu.vn,22,Allisonberg,Nam,9,0,3,1,9
+Donald Collins,20000516,0959743124,rsantiago@hus.edu.vn,18,Nicholemouth,Khác,4,2,1,6,1
+Alice Smith,20000224,0980811416,jennacameron@hus.edu.vn,24,Davidchester,Khác,9,7,10,0,2
+Tyler Johnson,20000789,0825293062,beverlygreen@hus.edu.vn,18,North Carloston,Nữ,1,1,8,2,2
+Nathaniel Shah,20000918,0700411016,tyler55@hus.edu.vn,21,Lauraborough,Khác,2,2,2,6,6
+Donald Gordon,20000470,0182958232,tracy32@hus.edu.vn,19,Amberchester,Nữ,4,1,10,5,4
+Danielle Fernandez,20000240,0543444218,tmoses@hus.edu.vn,18,South Troyfurt,Khác,2,6,5,0,10
+Peggy Williams,20000819,0542678696,mccormickstephanie@hus.edu.vn,23,West Carrie,Nam,4,2,10,3,6
+Renee Christensen,20000385,0167716649,robinwilliams@hus.edu.vn,22,South Noah,Khác,9,6,7,7,7
+Curtis Griffin,20000998,0128580860,emily97@hus.edu.vn,20,Ortegaside,Khác,0,1,3,4,1
+Kyle Owens,20000420,0582644735,dwilliams@hus.edu.vn,22,Gregorybury,Nam,2,0,4,8,2
+Elizabeth Hill,20000095,0056206934,robertmiller@hus.edu.vn,25,Port Heidiburgh,Nam,0,10,1,4,4
+Daniel Price,20000457,0344188150,rruiz@hus.edu.vn,20,Julieport,Khác,1,6,9,5,3
+Jackie Jackson,20000553,0512846420,hharris@hus.edu.vn,22,South Elizabeth,Khác,2,8,4,3,4
+Jill Williams,20000102,0952051888,amber07@hus.edu.vn,24,Chaseberg,Nữ,4,9,8,4,1
+Alexander Jimenez MD,20000377,0025307826,richard84@hus.edu.vn,21,Freemanstad,Khác,7,2,1,7,4
+Steven Clark,20000061,0883527851,brentperez@hus.edu.vn,23,West Claudiamouth,Khác,10,10,10,10,1
+Angela Ramirez,20000493,0554197796,wsandoval@hus.edu.vn,20,Port Ericmouth,Nam,2,1,1,1,3
+Maria Whitaker,20000516,0099587901,gjones@hus.edu.vn,17,West Andrew,Nam,9,9,0,7,2
+Brian Hill DDS,20000578,0614650004,tammygarcia@hus.edu.vn,17,Hinesfurt,Khác,3,1,1,0,8
+Angela Johnson,20000563,0710449267,lynn81@hus.edu.vn,21,East Elizabeth,Khác,3,1,9,10,9
+Amanda Allen,20000574,0535521278,masonsharon@hus.edu.vn,19,Port Patrickview,Khác,2,2,1,7,6
+Ivan Levine,20000972,0268427663,nwalker@hus.edu.vn,24,West Jennifer,Khác,5,7,2,4,2
+Kevin Wallace,20000289,0203215690,peterspamela@hus.edu.vn,23,North Samuelchester,Nam,0,9,3,7,5
+Dakota Martinez,20000165,0454619222,jacobortiz@hus.edu.vn,17,Michaelshire,Khác,3,3,1,8,8
+Jennifer Castillo,20000652,0169731740,sharon43@hus.edu.vn,21,Johnfurt,Khác,7,2,9,2,6
+Ashley Ford,20000471,0761396197,mcculloughlinda@hus.edu.vn,20,Annstad,Nữ,6,7,2,5,9
+Matthew Mason,20000311,0244335589,lunajames@hus.edu.vn,21,East Jennaberg,Nữ,1,4,9,4,7
+Claudia Combs,20000898,0520690906,asimmons@hus.edu.vn,19,North Anthony,Nữ,2,10,0,9,6
+Adam Smith,20000900,0835630315,terribell@hus.edu.vn,24,Snowshire,Nữ,6,9,2,10,3
+Chloe Robinson,20000182,0017948558,mwhite@hus.edu.vn,24,West Robin,Khác,6,9,1,3,5
+Stephanie Franklin,20000738,0146012424,jordankathy@hus.edu.vn,25,New Jeremy,Khác,9,6,3,9,0
+Deborah Montes,20000222,0070889022,hoodkatie@hus.edu.vn,18,West Darylbury,Nữ,3,9,5,0,3
+John Ross,20000658,0524575899,lopezjennifer@hus.edu.vn,21,Lake Keithfurt,Khác,5,3,4,10,5
+Andrea Rojas,20000112,0820259791,joshuasmith@hus.edu.vn,18,Gordonborough,Khác,8,4,10,8,10
+Kayla Levine,20000149,0115123911,annette09@hus.edu.vn,17,West Lisaport,Nữ,9,3,2,8,7
+Joanna Griffin,20000433,0975349088,bbutler@hus.edu.vn,24,West Brettton,Nam,10,6,5,1,9
+Ms. Sarah Thompson,20000793,0852353499,mistyhart@hus.edu.vn,18,Dunnfort,Khác,1,3,5,4,9
+Adrienne Williams,20000181,0356144365,hwilson@hus.edu.vn,24,Jamesmouth,Nữ,5,3,8,8,5
+Karen Poole,20000175,0788693710,bortiz@hus.edu.vn,20,Lopezmouth,Khác,6,4,0,1,0
+Julie Lopez,20000731,0879234998,zunigavictor@hus.edu.vn,25,Carolynshire,Nam,10,1,7,0,7
+Madeline Ross,20000481,0245244823,sarah87@hus.edu.vn,23,Grosshaven,Nam,3,4,7,5,8
+Andrew James,20000174,0171463127,lambertsamantha@hus.edu.vn,18,Sarahborough,Nữ,5,3,1,4,7
+Joel Thompson,20000546,0391566972,xbautista@hus.edu.vn,20,Clarkberg,Nữ,6,0,8,3,3
+Amber Robinson,20000020,0609255289,murphybeth@hus.edu.vn,22,North Ryanfort,Nam,8,3,0,9,2
+Maria Downs,20000449,0790563375,kaitlynhoward@hus.edu.vn,18,Ericamouth,Nữ,8,3,9,2,1
+Anne Taylor,20000425,0803166349,briannamatthews@hus.edu.vn,18,Port Tammy,Khác,0,3,10,4,6
+Valerie Hamilton,20000919,0567610722,eugene55@hus.edu.vn,25,West Philip,Khác,1,9,9,10,0
+Daniel Goodwin,20000222,0073590157,fdavis@hus.edu.vn,19,West Michele,Khác,9,3,2,10,9
+Dr. Justin Jackson,20000391,0863105357,laura64@hus.edu.vn,22,Lake Robertmouth,Khác,7,2,2,1,7
+Michelle Benton,20000281,0879960810,marshallsydney@hus.edu.vn,23,Markshire,Nam,8,4,3,4,4
+Linda Owens,20000872,0109975140,sarah08@hus.edu.vn,23,South Brandontown,Nữ,8,10,8,1,10
+George Thompson,20000799,0195074659,hbowers@hus.edu.vn,24,Shawmouth,Nữ,5,6,5,7,10
+Ms. Susan Gould,20000965,0774913581,christinathompson@hus.edu.vn,25,South Kennethborough,Nữ,7,6,3,4,9
+Stephanie Kaiser,20000217,0544415868,andrew01@hus.edu.vn,18,West Richardhaven,Nam,2,3,7,1,1
+Curtis Rhodes,20000241,0721445858,edward22@hus.edu.vn,25,Port Cheryl,Nữ,5,2,6,0,0
+Mr. Derek Brown,20000765,0094880351,lynchannette@hus.edu.vn,22,Mariaton,Nam,4,10,2,8,4
+Mary Oconnor,20000940,0480212438,james61@hus.edu.vn,23,Elizabethton,Nam,9,6,1,3,3
+Mr. Anthony Wood,20000831,0442113875,wroman@hus.edu.vn,19,Lake James,Nữ,8,9,3,7,10
+Drew Munoz,20000429,0069792822,andrewperez@hus.edu.vn,21,Taylorstad,Khác,1,9,0,2,2
+Leslie Chavez,20000014,0808279036,davidjordan@hus.edu.vn,17,Johnsonland,Khác,2,0,8,10,10
+Jennifer Phillips,20000178,0956827002,fanderson@hus.edu.vn,20,Katherineland,Nữ,6,6,6,4,4
+Janet Thomas,20000971,0133028430,briana71@hus.edu.vn,17,North Kim,Khác,6,1,9,8,9
+Robert Rogers,20000754,0260983559,chadbauer@hus.edu.vn,17,New Ryan,Nữ,8,1,7,7,9
+Jason Leonard,20000209,0509469547,reidmisty@hus.edu.vn,19,Kennethland,Nam,9,0,9,9,9
+Michael Goodman,20000687,0921654586,donaldfleming@hus.edu.vn,25,Millerstad,Khác,5,1,1,1,5
+Alison Scott,20000962,0096200874,adam69@hus.edu.vn,25,East Victor,Nữ,1,9,8,1,3
+Clinton Thompson,20000355,0068799584,darlene16@hus.edu.vn,17,Colinmouth,Nữ,9,7,7,2,10
+Felicia Drake,20000609,0210000295,jonathanstein@hus.edu.vn,20,Port Nathan,Nữ,10,7,5,5,4
+Elizabeth Martin,20000333,0235198809,jacob79@hus.edu.vn,18,Melodyfurt,Nữ,3,1,0,1,1
+Denise Frank,20000048,0331766275,davidcox@hus.edu.vn,18,Lake Omarville,Nữ,7,2,1,1,3
+Carolyn Carter,20000613,0709212881,christina18@hus.edu.vn,19,Kimview,Nam,5,3,2,10,6
+Amy Frank,20000093,0884171697,fitzpatrickrandy@hus.edu.vn,23,Martinezmouth,Nữ,5,8,2,10,9
+Steven Garcia,20000162,0583083128,clopez@hus.edu.vn,19,West Katiemouth,Nam,4,0,9,5,6
+Ashley Meza,20000348,0529815706,robertgreen@hus.edu.vn,25,West Alyssa,Nam,5,7,5,9,7
+Courtney Ruiz,20000734,0562694231,brandonnguyen@hus.edu.vn,21,Schmidtborough,Nữ,2,8,10,7,2
+James Lopez,20000976,0089763644,justin60@hus.edu.vn,25,West Vanessa,Nữ,5,10,0,9,3
+Russell Perry,20000525,0315361348,michaelgarcia@hus.edu.vn,19,Jenniferborough,Nữ,8,4,7,9,4
+Lauren Russell,20000881,0716236339,connoradams@hus.edu.vn,17,Charlesview,Nam,7,7,2,5,10
+Devin Warren,20000900,0962417739,mclaughlinsuzanne@hus.edu.vn,24,Gregoryside,Nữ,2,1,1,10,2
+Jean Carey,20000878,0477127468,xsullivan@hus.edu.vn,19,North Juan,Khác,7,3,9,6,7
+Lori Johnson,20000281,0511303368,charlessummer@hus.edu.vn,18,East Amberville,Khác,6,5,2,3,10
+Mackenzie Hill,20000708,0643234097,lwiley@hus.edu.vn,25,Colemouth,Nam,8,7,5,1,1
+Hannah Miles,20000658,0791797820,cindy77@hus.edu.vn,23,New Ericatown,Khác,10,10,1,0,7
+Jason Sexton,20000841,0490308352,michaellopez@hus.edu.vn,20,Brownport,Khác,9,5,2,8,10
+Amanda Beltran,20000433,0920443896,iholmes@hus.edu.vn,21,Moranburgh,Khác,8,10,10,6,1
+Vanessa Garcia,20000993,0233618590,gbarron@hus.edu.vn,19,Port Steven,Khác,6,9,9,10,10
+Joshua Torres,20000550,0947724384,zlozano@hus.edu.vn,18,Gonzalezberg,Nữ,6,1,7,7,6
+Helen Wolfe,20000247,0748238223,ndunn@hus.edu.vn,25,East Richard,Nữ,1,5,3,9,8
+Katelyn Allison DVM,20000378,0918777882,zhenson@hus.edu.vn,23,Joannburgh,Nữ,8,6,0,6,5
+Richard Harvey MD,20000424,0901792657,marcuswiley@hus.edu.vn,20,West Christinachester,Nữ,8,6,5,0,2
+Shawn Vargas,20000428,0406512166,tiffany08@hus.edu.vn,22,Coryton,Nam,3,10,4,8,1
+David Carlson,20000179,0613590124,jamesjohnson@hus.edu.vn,25,New Stephanieborough,Nam,8,0,5,5,6
+Taylor Andrews,20000932,0314523668,tiffany30@hus.edu.vn,17,Charlesfort,Nữ,9,9,5,2,3
+Susan Newman,20000553,0025651201,victoriajames@hus.edu.vn,21,Danielville,Nữ,5,10,5,1,9
+David Baker,20000893,0401080777,laurenbaker@hus.edu.vn,18,Aliciaside,Nữ,5,3,2,1,2
+Mr. Samuel Ortega,20000719,0290881824,lacey46@hus.edu.vn,25,Port Johnbury,Nam,3,1,8,0,1
+Randy Hunter,20000237,0465272150,tbell@hus.edu.vn,20,Lake Justinland,Nữ,7,3,3,6,1
+Amy Dawson,20000928,0230231794,suttoneric@hus.edu.vn,23,North Jennifer,Nữ,1,5,1,7,4
+Rebecca Martin,20000868,0381299069,lespinoza@hus.edu.vn,23,East Shawnhaven,Khác,8,9,5,1,1
+Daniel Nash,20000165,0394498198,grantfrazier@hus.edu.vn,20,East Lisahaven,Nữ,1,10,4,2,9
+Vicki Cobb,20000746,0257978425,sarah09@hus.edu.vn,18,Derekborough,Khác,9,1,5,8,6
+Lauren Oneill,20000763,0437501380,vickihaney@hus.edu.vn,24,New Michaelbury,Nữ,8,3,2,3,10
+Eric Burns,20000218,0362860274,wlong@hus.edu.vn,17,Lynnfurt,Nữ,1,4,10,4,6
+Joshua Brown,20000477,0650587803,jeremiah36@hus.edu.vn,23,New Geraldfort,Nam,9,10,0,9,5
+David Powell,20000805,0561334691,thunt@hus.edu.vn,20,Fernandezburgh,Nam,6,3,6,0,3
+Philip Tucker,20000777,0806751700,lopezeric@hus.edu.vn,20,Port Bradley,Khác,2,1,5,3,9
+Meagan Allen DVM,20000654,0160882360,paulwhite@hus.edu.vn,21,North Markchester,Khác,1,9,5,6,0
+Mary Taylor,20000085,0887000039,robertslinda@hus.edu.vn,20,South Natashaland,Nữ,2,8,7,3,4
+Sylvia Martin,20000081,0329118900,anitataylor@hus.edu.vn,23,Lake Wesley,Khác,3,8,7,1,8
+John Riggs,20000294,0470571220,davisteresa@hus.edu.vn,20,South Jason,Khác,7,5,5,0,4
+Nancy Harris,20000854,0697426121,erikamiller@hus.edu.vn,18,Port Amanda,Nữ,4,7,10,4,4
+Chelsea Cook,20000741,0466791675,warnerjames@hus.edu.vn,19,Wilsonchester,Khác,8,3,2,4,3
+Sheila Nichols,20000703,0578668221,willieedwards@hus.edu.vn,19,West Jeffrey,Khác,8,9,3,4,7
+Diana Alvarado,20000662,0587045034,heatherchambers@hus.edu.vn,21,West Christopher,Khác,7,10,0,7,2
+Jasmine Stephens,20000571,0438540123,spollard@hus.edu.vn,20,Frostport,Khác,0,8,4,5,10
+David Brown,20000597,0291642364,tuckerelizabeth@hus.edu.vn,23,Chandlertown,Nữ,5,2,3,8,10
+David Anderson,20000056,0670997522,phillipsdakota@hus.edu.vn,17,New Davidville,Nữ,3,7,5,9,9
+Tim Hendricks,20000671,0921857668,wbenjamin@hus.edu.vn,19,West Joseph,Nam,2,1,6,7,0
+Daniel Perez,20000084,0737599337,rlopez@hus.edu.vn,21,Spencershire,Nữ,8,7,7,8,7
+Sheryl Knight,20000905,0951137970,erin16@hus.edu.vn,23,East Nicholasport,Nam,9,9,4,7,5
+Julie Bell,20000216,0442240817,williamcrawford@hus.edu.vn,17,East Karen,Nữ,8,10,2,2,5
+David Dawson,20000324,0610683659,laurafranklin@hus.edu.vn,24,North Jackside,Nam,0,0,7,0,0
+Jason Young,20000448,0483733968,aaron21@hus.edu.vn,21,Jesustown,Nữ,0,5,6,0,1
+Dawn Shelton,20000926,0931974373,lutzryan@hus.edu.vn,18,Marksstad,Nữ,8,6,3,7,4
+Amanda Weeks,20000610,0337111316,powellmelissa@hus.edu.vn,20,Lake Tommyshire,Nữ,0,6,10,0,1
+Tanya Walsh,20000781,0884892739,richardstina@hus.edu.vn,19,Cortezport,Khác,3,8,5,2,9
+William Jones,20000739,0344532291,james27@hus.edu.vn,19,Frazierberg,Nữ,10,8,6,4,0
+Brittany Jones,20000857,0417673365,deborah35@hus.edu.vn,18,Riverastad,Khác,2,9,5,9,6
+Michael Coleman,20000221,0246164530,petersonjennifer@hus.edu.vn,22,Thompsonborough,Nam,6,2,7,3,8
+Michelle Brooks,20000860,0928431762,powellrebekah@hus.edu.vn,24,West John,Nam,5,4,4,0,5
+Carrie Davis,20000019,0663193459,christineperry@hus.edu.vn,18,Aaronhaven,Nữ,9,5,8,1,8
+Debbie Lee,20000136,0742442048,griffinallison@hus.edu.vn,18,West Angela,Nữ,2,8,8,2,6
+Charles Douglas,20000095,0437398685,briannasmith@hus.edu.vn,20,South Patricia,Nam,2,0,7,2,5
+Anthony Alexander,20000274,0378745374,benjamin83@hus.edu.vn,18,Lake Eric,Khác,3,2,1,7,0
+Casey Hall,20000584,0090407340,hannah17@hus.edu.vn,21,West Juliaberg,Nam,5,0,7,2,2
+Kyle Meyer,20000673,0881339238,karalara@hus.edu.vn,22,Sloanton,Khác,8,8,9,6,3
+Chad Deleon,20000349,0688238647,fzimmerman@hus.edu.vn,20,Lauratown,Nữ,4,0,3,7,5
+Jesse Hendrix,20000924,0800467091,michelleduncan@hus.edu.vn,19,Kathrynview,Khác,2,2,6,9,0
+Cody Travis,20000383,0973780330,hilltina@hus.edu.vn,17,New Allisonmouth,Nam,7,8,6,2,6
+Bradley Huff,20000583,0193700326,colelawrence@hus.edu.vn,22,Schneiderburgh,Khác,10,5,5,6,6
+Vanessa Ramirez,20000827,0575805579,anthonyirwin@hus.edu.vn,25,Jeffreyborough,Nữ,5,6,9,2,3
+John Cook,20000787,0543240414,mccormickmelissa@hus.edu.vn,22,Port Gabrieltown,Nam,5,0,6,10,5
+Kurt Phillips,20000731,0331400277,wagnermichelle@hus.edu.vn,22,North Steven,Nam,0,6,3,7,9
+Christopher Figueroa,20000997,0655861988,melindagoodman@hus.edu.vn,17,Wayneland,Nữ,5,9,9,9,2
+Justin Morris,20000635,0260734095,schultzlori@hus.edu.vn,21,North Shawn,Nam,8,4,0,6,2
+Vanessa Thomas,20000030,0129806977,marisamartinez@hus.edu.vn,20,East Deborah,Nữ,6,10,9,5,2
+Margaret Mills,20000553,0084495368,jimmy88@hus.edu.vn,17,Lake Tina,Khác,1,9,8,8,6
+Brett Smith,20000831,0805909944,mark04@hus.edu.vn,22,Lake Brittanychester,Khác,10,10,5,10,9
+Larry Bauer,20000761,0774678924,monique82@hus.edu.vn,21,Martinezview,Nữ,5,0,2,2,2
+Shane Sullivan,20000602,0461561552,michael93@hus.edu.vn,25,South Brian,Khác,8,10,2,7,9
+Edwin Horne,20000169,0463242303,lmoore@hus.edu.vn,20,West Stephenside,Nữ,4,5,5,0,4
+Beverly Moreno,20000345,0634309750,lawrencerobert@hus.edu.vn,20,Lesterborough,Nam,8,6,3,1,0
+John Harper,20000650,0089237189,imcdonald@hus.edu.vn,17,Alexisview,Nam,8,5,5,4,7
+Glenda Hutchinson,20000843,0619258973,nicholas46@hus.edu.vn,23,Davidfort,Nam,1,9,3,1,2
+Troy Avila,20000272,0662057565,karinaperez@hus.edu.vn,24,Lisafurt,Khác,10,9,10,7,5
+Sabrina Snyder,20000780,0037536623,xavier68@hus.edu.vn,19,Conwayview,Nữ,3,6,7,8,7
+Sean Cox,20000250,0636382256,otaylor@hus.edu.vn,23,North Kathleen,Nam,0,8,10,9,8
+Jesse Shepherd,20000277,0896991126,qadams@hus.edu.vn,22,Williamhaven,Nam,3,5,2,1,10
+Jordan Nicholson MD,20000278,0335140752,kwilliams@hus.edu.vn,21,Stephaniefurt,Khác,5,5,1,10,6
+Sara Bryant,20000275,0947347855,daymarcus@hus.edu.vn,17,West Heather,Khác,4,9,9,7,3
+Raymond Medina,20000131,0959739468,sle@hus.edu.vn,23,New Emily,Nữ,0,8,9,9,2
+Jason Walter DDS,20000420,0095139529,vherrera@hus.edu.vn,23,South Joseph,Nữ,4,6,3,0,8
+Meghan Johns,20000587,0948396803,riveragary@hus.edu.vn,18,Jenniferborough,Nam,10,3,5,4,8
+Timothy Hartman,20000944,0600508561,jessica13@hus.edu.vn,17,Stoutmouth,Khác,5,4,0,4,1
+Joyce Gray,20000168,0033871141,patricia24@hus.edu.vn,17,New Joseph,Nữ,9,1,4,9,1
+Andrew Gardner,20000164,0458646406,susan97@hus.edu.vn,25,Samanthaville,Nữ,9,1,6,5,8
+Melissa Davis,20000070,0510063395,tjohnson@hus.edu.vn,24,South Bethside,Khác,2,8,2,8,2
+Douglas Davis,20000556,0941413070,wilsonsamuel@hus.edu.vn,25,North Victoria,Nữ,1,0,9,2,1
+Mary Howard,20000159,0494395942,caroline23@hus.edu.vn,21,New Yvonneton,Nữ,7,2,5,3,8
+Lori Valdez,20000215,0534281251,stephen39@hus.edu.vn,19,East Michaelburgh,Khác,3,3,5,6,3
+Amanda Evans,20000331,0717731652,virginia91@hus.edu.vn,18,Virginiamouth,Khác,7,0,10,4,10
+April Miller,20000841,0396026159,sloankatherine@hus.edu.vn,23,Josephton,Nam,2,9,10,1,7
+Samuel Smith DDS,20000192,0542961554,emartinez@hus.edu.vn,20,New Andreaport,Nam,5,4,10,2,3
+Sherry Castillo,20000311,0200906130,michellesmith@hus.edu.vn,23,Lake Kristin,Khác,9,8,3,4,4
+Lisa Navarro,20000449,0021991170,pwilliams@hus.edu.vn,25,Meghanbury,Khác,7,2,4,6,5
+Morgan Reed,20000221,0201462419,bryce98@hus.edu.vn,24,Millerburgh,Khác,6,7,0,7,9
+Michael Foster,20000397,0763597401,qwest@hus.edu.vn,25,Woodland,Khác,5,9,8,0,2
+Linda Fowler,20000021,0185831635,gabriellajohnson@hus.edu.vn,25,Port Nathan,Nữ,4,5,9,1,8
+David Lynch,20000476,0164266056,ramirezcraig@hus.edu.vn,18,East Michael,Khác,3,6,6,4,1
+Karen Pena,20000021,0445563529,tyler38@hus.edu.vn,19,Kellyside,Nam,6,2,1,9,8
+Wendy Cochran,20000549,0319759844,sgill@hus.edu.vn,21,North Jeremyfurt,Nam,6,1,10,0,4
+Charles Ochoa,20000232,0144767191,alishawalker@hus.edu.vn,25,Frazierfurt,Nữ,6,0,6,3,7
+Larry Holt,20000479,0485358876,shelbyfox@hus.edu.vn,24,East Scotthaven,Nam,7,2,2,9,10
+Diane Campbell,20000542,0314317771,rhill@hus.edu.vn,22,Haleborough,Nữ,1,1,5,4,3
+Benjamin Tucker,20000391,0844651625,dhudson@hus.edu.vn,21,Teresaview,Khác,9,9,7,5,7
+Megan Moreno,20000545,0945661175,wendysmith@hus.edu.vn,25,Clintonborough,Nam,10,9,2,4,7
+Eric Jones,20000828,0468284195,weverett@hus.edu.vn,17,Jenniferchester,Khác,7,6,6,0,5
+Brandon Brown,20000152,0128404503,tami36@hus.edu.vn,21,Hayeston,Nam,10,5,6,2,3
+Renee Hurst,20000848,0652379665,bonillaashley@hus.edu.vn,22,South Stephanieberg,Nam,0,9,8,1,4
+Brandon Johnson,20000884,0338011612,vdunlap@hus.edu.vn,20,East Tiffanyfurt,Nữ,5,1,1,6,6
+Rebecca Smith,20000145,0372688720,scantu@hus.edu.vn,25,Lake Teresaberg,Nữ,5,0,0,5,5
+Connor Phillips,20000190,0613170046,goulddebbie@hus.edu.vn,25,Walshburgh,Nữ,6,5,6,0,5
+Ryan Walker,20000636,0767043930,roachchristopher@hus.edu.vn,23,Port Marybury,Khác,3,10,1,6,10
+Martin Sanchez,20000376,0801917182,andrew54@hus.edu.vn,18,Karenbury,Khác,5,1,10,4,7
+Lisa Decker,20000075,0519752065,matthewolson@hus.edu.vn,22,East Christopher,Nữ,9,6,4,2,10
+Thomas Booth,20000161,0968817624,whitney87@hus.edu.vn,21,Lake Nichole,Nam,6,8,7,4,5
+Travis Hill,20000295,0172374254,marquezbarry@hus.edu.vn,23,North Philipstad,Nữ,5,6,8,5,9
+Jeffery Bauer,20000345,0298242761,gloriaharrison@hus.edu.vn,21,Port Kurt,Khác,8,4,0,5,10
+John Figueroa,20000717,0770485986,qgordon@hus.edu.vn,19,Stewartchester,Nam,7,10,4,10,0
+Mark Garcia,20000837,0775670291,christinasimpson@hus.edu.vn,21,West Janetburgh,Nữ,7,9,8,0,7
+Mark Cline,20000089,0085172884,athompson@hus.edu.vn,25,Jamieview,Khác,0,2,10,10,2
+Joann Delgado,20000946,0444998050,dickersonbilly@hus.edu.vn,17,Zacharyport,Khác,3,8,7,10,8
+Brittany Jackson,20000081,0601812665,lynn66@hus.edu.vn,20,South Yvette,Khác,7,4,2,7,2
+Karen Hutchinson,20000676,0131340240,christopherparker@hus.edu.vn,21,Rogersborough,Nữ,2,8,1,9,1
+Lynn Murphy,20000669,0917569584,andrea14@hus.edu.vn,22,Lake Trevorland,Nam,0,3,2,2,10
+Edward Walker,20000802,0442547685,beasleylinda@hus.edu.vn,18,Jonathantown,Khác,6,9,4,2,4
+David King,20000670,0522855676,simmonssarah@hus.edu.vn,21,Hunterport,Nam,1,2,0,8,3
+Justin Taylor,20000311,0944749465,williamsriley@hus.edu.vn,21,North Markburgh,Khác,0,5,8,5,3
+Heather Perez,20000809,0210971622,lsmith@hus.edu.vn,17,Sarahmouth,Khác,10,2,7,9,9
+Thomas Garrison,20000775,0450729920,davisshannon@hus.edu.vn,23,East Jennifer,Nam,6,6,6,1,10
+Alexandra Fox,20000935,0227387706,mark55@hus.edu.vn,22,Thomasberg,Nữ,8,8,3,8,3
+Robert Howell,20000638,0021478182,clarkechristopher@hus.edu.vn,22,Lamberttown,Khác,7,10,5,4,10
+Gina Jones,20000091,0966655187,pagesara@hus.edu.vn,23,Lake Clayton,Nam,2,5,1,4,8
+Crystal Smith,20000230,0246307782,rhonda46@hus.edu.vn,20,Jeffreytown,Nữ,3,8,2,4,8
+Amy Barnett,20000932,0194177283,angelica07@hus.edu.vn,25,Allenberg,Nam,2,5,5,4,5
+Michael Stuart,20000588,0470373715,nicole78@hus.edu.vn,19,Mccannberg,Khác,8,9,2,0,9
+Sierra Henry,20000353,0053352228,jeremy93@hus.edu.vn,21,Port Jacob,Khác,7,0,2,3,9
+Keith Riddle,20000327,0602859452,christopherguzman@hus.edu.vn,22,Mckinneytown,Khác,8,10,6,3,4
+Tina Marshall,20000960,0312866485,carlmiller@hus.edu.vn,25,Ritterborough,Nữ,3,7,0,6,1
+Gary Schroeder,20000747,0578039099,dwilson@hus.edu.vn,21,West Jenniferport,Khác,2,9,5,5,9
+Michael Kerr,20000311,0317202421,charlesflores@hus.edu.vn,18,North Daniel,Nam,1,4,1,2,2
+Paul Lowery,20000349,0631971596,qdavis@hus.edu.vn,19,East Johnberg,Nữ,8,10,3,6,1
+Isaac Vazquez,20000737,0474125927,andreacooper@hus.edu.vn,17,North Amandaburgh,Nam,10,2,2,9,3
+William Anderson,20000253,0639456306,rodneybush@hus.edu.vn,22,Rickyland,Nam,2,0,4,8,0
+Jo Love,20000469,0422241241,shouse@hus.edu.vn,17,Glasstown,Khác,7,4,7,4,5
+Whitney Davis,20000636,0117420423,michaelvega@hus.edu.vn,21,Lake Heidi,Nữ,1,9,9,6,8
+Christopher Rivera,20000572,0358324405,michelleshepherd@hus.edu.vn,18,Christopherfurt,Khác,0,0,6,8,2
+Carly Bailey,20000680,0219906478,michellerichardson@hus.edu.vn,23,Jenniferside,Nam,3,1,0,7,6
+Katherine Lopez,20000552,0511554121,zcoleman@hus.edu.vn,17,Waltersfurt,Nam,0,9,0,9,0
+Ann Pope,20000293,0852550890,boothlauren@hus.edu.vn,17,West Amandaville,Khác,0,3,1,3,5
+Scott Andrade,20000495,0727521968,ebuchanan@hus.edu.vn,20,New Megantown,Khác,7,7,6,0,8
+Megan Barnes,20000001,0462087970,kwatts@hus.edu.vn,21,Floresfort,Nữ,4,0,5,0,6
+Amanda Bradford,20000461,0906449908,heather91@hus.edu.vn,18,New Julieview,Khác,6,10,5,1,2
+Anthony Hunt,20000526,0744375536,weeksjohn@hus.edu.vn,18,Erikstad,Nam,1,6,1,9,7
+Victoria Burns,20000521,0453731189,cody99@hus.edu.vn,17,Maldonadoport,Nữ,3,4,9,6,4
+Susan Barrett,20000972,0593506388,clinelindsay@hus.edu.vn,21,Sethstad,Khác,5,5,2,5,3
+Shawn Bray,20000615,0269227544,wendy99@hus.edu.vn,19,West Zachary,Khác,4,4,2,1,5
+Christine Figueroa,20000748,0239318330,jennifer42@hus.edu.vn,18,Lake Aprilshire,Nam,4,2,2,1,7
+Michael Perry,20000508,0342395905,johnweiss@hus.edu.vn,22,Lake Kevin,Nam,2,3,2,6,2
+Kristin Gonzalez,20000840,0524572873,julia20@hus.edu.vn,21,Lake Logan,Nữ,4,10,10,4,4
+David Sweeney,20000527,0210528620,kimberlysmith@hus.edu.vn,24,Davisfurt,Khác,8,5,3,2,10
+Melissa May,20000421,0979754777,charlescarter@hus.edu.vn,20,South Nathan,Khác,2,4,10,5,4
+Joseph Hill,20000593,0538490858,elong@hus.edu.vn,24,North Stacyburgh,Nữ,2,5,8,1,9
+Brianna Walker,20000862,0913389375,vgonzalez@hus.edu.vn,17,Ashleystad,Nữ,7,4,6,3,10
+Bradley Pace,20000159,0266111635,efranklin@hus.edu.vn,25,South Taraside,Nữ,5,7,6,3,1
+Susan Wheeler,20000930,0544820586,stephen07@hus.edu.vn,23,Juliamouth,Nam,2,4,2,8,5
+Carol Clark,20000902,0355930814,christensenjames@hus.edu.vn,17,North Joshuaside,Nam,3,1,6,2,10
+Abigail Walker,20000505,0712937370,roliver@hus.edu.vn,19,Lake Melissa,Khác,3,8,1,8,8
+Alexandria Kent,20000262,0349664751,valeriestephenson@hus.edu.vn,21,Evansville,Khác,0,2,1,4,4
+Brenda Lee,20000354,0626932953,rjackson@hus.edu.vn,17,Murphychester,Nữ,1,7,2,8,10
+Randall Cannon,20000980,0110756245,jlopez@hus.edu.vn,24,Mollybury,Nữ,4,5,5,8,4
+Amanda Chan,20000444,0770754984,james09@hus.edu.vn,24,Davidton,Khác,4,6,0,4,6
+Autumn Galvan,20000331,0360233033,mooregary@hus.edu.vn,23,New Hectorhaven,Khác,1,3,1,5,7
+Cynthia Vargas,20000894,0215933426,bwebster@hus.edu.vn,24,Port Michelleside,Nam,3,3,0,4,4
+Debra Wright,20000222,0779704532,donald83@hus.edu.vn,21,Kimberlyburgh,Khác,9,2,1,3,10
+Tammy Moore,20000410,0136334783,lewislarry@hus.edu.vn,24,Feliciamouth,Khác,8,9,9,0,5
+Roger George,20000065,0058275847,thompsonlisa@hus.edu.vn,23,East Brittany,Nam,2,5,4,1,2
+Chris Lopez,20000595,0430744035,cdyer@hus.edu.vn,24,Bellstad,Nữ,2,9,1,8,6
+Linda Wagner,20000056,0075142214,jasongonzalez@hus.edu.vn,20,North Nicholasstad,Nữ,2,2,2,5,6
+Charles Parker,20000894,0591100910,jordanjohn@hus.edu.vn,24,Riveraberg,Nam,10,6,8,0,2
+Jonathon Pittman,20000014,0399738232,hhall@hus.edu.vn,18,Phillipsfort,Nữ,9,2,1,7,8
+Hunter Hernandez,20000624,0364885950,smithryan@hus.edu.vn,25,Levineton,Khác,4,8,10,1,7
+Amanda Schaefer,20000589,0288943479,clinton05@hus.edu.vn,20,East Patrick,Khác,6,9,9,0,6
+Jeffery Ward,20000012,0573813006,wward@hus.edu.vn,25,Port Kellyshire,Nữ,4,8,9,5,0
+Elizabeth Gibbs,20000440,0331609332,patrickdawn@hus.edu.vn,18,Raymondland,Nữ,6,4,10,2,5
+William Mullen,20000894,0377448500,fosterbruce@hus.edu.vn,24,East Stephenside,Nam,1,4,4,3,4
+Sarah Fields DVM,20000432,0192413613,lmoore@hus.edu.vn,21,Port Dennis,Khác,6,6,0,9,4
+Joyce Johns,20000866,0703570794,ashleyward@hus.edu.vn,22,Lake Coreyhaven,Nữ,9,0,9,3,4
+Mary Gillespie,20000869,0973473096,drewrodriguez@hus.edu.vn,20,North Katherinetown,Khác,10,10,9,4,9
+Daniel Schneider,20000345,0545514711,wallacepaige@hus.edu.vn,21,West Coreyport,Nữ,2,2,6,8,9
+John Mclaughlin,20000900,0902274187,rachel73@hus.edu.vn,19,Lindaport,Nam,9,8,8,9,5
+Grace Moreno,20000140,0073410360,owhitaker@hus.edu.vn,24,Port Brandon,Nữ,1,5,0,9,8
+Laura Shepherd,20000012,0661301357,jessica68@hus.edu.vn,18,West Brent,Khác,8,10,2,5,7
+Renee Lee,20000405,0637735054,james56@hus.edu.vn,25,Ericshire,Nam,3,4,1,5,8
+Kathryn Stein,20000474,0525514772,ywhite@hus.edu.vn,19,New Luis,Nữ,4,8,1,1,9
+Alexis Miller,20000453,0117812846,sherry80@hus.edu.vn,19,North Nicole,Khác,6,3,8,9,0
+Tina Roberts,20000480,0243077497,hayesrichard@hus.edu.vn,20,Cassidyshire,Nữ,8,3,3,8,9
+Kimberly Watts,20000538,0926877394,ecastro@hus.edu.vn,24,Port Danielport,Nữ,9,1,4,4,1
+Jennifer Martin,20000658,0315873021,fsanchez@hus.edu.vn,18,East Randy,Nữ,8,7,5,4,0
+Tyler Lee,20000408,0660313662,smithlauren@hus.edu.vn,21,Angelamouth,Khác,8,0,4,9,8
+Judith Anderson,20000646,0166828156,kcarter@hus.edu.vn,24,East Pamelahaven,Khác,4,1,3,6,2
+James Johnson,20000014,0614461837,lhoffman@hus.edu.vn,23,Chavezfurt,Nữ,3,4,2,5,6
+Whitney White,20000502,0310661178,mariebailey@hus.edu.vn,21,Olsonview,Khác,2,9,6,8,5
